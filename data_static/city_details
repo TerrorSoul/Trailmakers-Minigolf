@@ -1,0 +1,970 @@
+{"Date":"10:28:2024","Time":"16:43:57","Map":"Test Zone","Spawns":{"skyscraper2 skyscraper2 1":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-6459.88720703125,
+199.79023742675781,
+-1295.3858642578125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper4 skyscraper4 2":{"Name":"skyscraper4 skyscraper4","DisplayName":"skyscraper4 skyscraper4","S":0.2,"Static":true,"Visible":true,"L":[
+-6451.71875,
+200.46037292480469,
+-1253.867919921875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper4 skyscraper4 3":{"Name":"skyscraper4 skyscraper4","DisplayName":"skyscraper4 skyscraper4","S":0.2,"Static":true,"Visible":true,"L":[
+-6082.28466796875,
+205.23165893554688,
+-1700.725830078125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 4":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.2,"Static":true,"Visible":true,"L":[
+-5983.97802734375,
+204.68417358398438,
+-1682.7181396484375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 5":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.2,"Static":true,"Visible":true,"L":[
+-5943.97802734375,
+184.68417358398438,
+-1692.7181396484375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 6":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.2,"Static":true,"Visible":true,"L":[
+-5903.97802734375,
+196.08425903320313,
+-1672.7181396484375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 7":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-5847.2431640625,
+202.62190246582031,
+-1612.5408935546875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 8":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-6187.2431640625,
+189.02168273925781,
+-912.5408935546875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 9":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-6347.89990234375,
+198.49996948242188,
+-1754.3995361328125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper2 skyscraper2 10":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-5898.1591796875,
+195.00160217285156,
+-1178.8128662109375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper2 skyscraper2 11":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-5868.1591796875,
+195.00160217285156,
+-1208.8128662109375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper2 skyscraper2 12":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-5848.1591796875,
+124.50157165527344,
+-1358.8128662109375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper4 skyscraper4 13":{"Name":"skyscraper4 skyscraper4","DisplayName":"skyscraper4 skyscraper4","S":0.3,"Static":true,"Visible":true,"L":[
+-5817.32421875,
+191.06040954589844,
+-1266.8671875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 14":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.32,"Static":true,"Visible":true,"L":[
+-5875.99267578125,
+197.27372741699219,
+-1127.2977294921875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 15":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.32,"Static":true,"Visible":true,"L":[
+-5895.99267578125,
+169.17384338378906,
+-1060.596923828125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 16":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-5967.2431640625,
+189.02168273925781,
+-992.5408935546875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 17":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-6037.6435546875,
+181.12181091308594,
+-992.3409423828125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper10 skyscraper10 18":{"Name":"skyscraper10 skyscraper10","DisplayName":"skyscraper10 skyscraper10","S":0.3,"Static":true,"Visible":true,"L":[
+-6328.93505859375,
+196.02622985839844,
+-927.047607421875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper11 skyscraper11 19":{"Name":"skyscraper11 skyscraper11","DisplayName":"skyscraper11 skyscraper11","S":0.2,"Static":true,"Visible":true,"L":[
+-5876.9384765625,
+199.66183471679688,
+-1401.27392578125]
+,"R":[
+0,
+180,
+0]
+},"skyscraper13 skyscraper13 20":{"Name":"skyscraper13 skyscraper13","DisplayName":"skyscraper13 skyscraper13","S":0.3,"Static":true,"Visible":true,"L":[
+-5873.67919921875,
+202.88056945800781,
+-1550.3515625]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 21":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-5832.828125,
+201.92178344726563,
+-1441.75830078125]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 22":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.5,"Static":true,"Visible":true,"L":[
+-5835.4208984375,
+201.92178344726563,
+-1501.4583740234375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper10 skyscraper10 23":{"Name":"skyscraper10 skyscraper10","DisplayName":"skyscraper10 skyscraper10","S":0.3,"Static":true,"Visible":true,"L":[
+-6208.4345703125,
+196.02622985839844,
+-1745.9478759765625]
+,"R":[
+0,
+0,
+0]
+},"skyscraper2 skyscraper2 24":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-5808.05908203125,
+175.00160217285156,
+-1320.112548828125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper13 skyscraper13 25":{"Name":"skyscraper13 skyscraper13","DisplayName":"skyscraper13 skyscraper13","S":0.3,"Static":true,"Visible":true,"L":[
+-6035.48095703125,
+173.48060607910156,
+-1720.3515625]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 26":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-6100.92626953125,
+194.72195434570313,
+-971.75830078125]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 27":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-6123.62890625,
+194.72195434570313,
+-931.75830078125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper8 skyscraper8 28":{"Name":"skyscraper8 skyscraper8","DisplayName":"skyscraper8 skyscraper8","S":0.2,"Static":true,"Visible":true,"L":[
+-6464.35009765625,
+181.92185974121094,
+-986.9422607421875]
+,"R":[
+0,
+0,
+0]
+},"skyscraper10 skyscraper10 29":{"Name":"skyscraper10 skyscraper10","DisplayName":"skyscraper10 skyscraper10","S":0.3,"Static":true,"Visible":true,"L":[
+-6453.93994140625,
+196.02622985839844,
+-1127.047607421875]
+,"R":[
+0,
+270,
+0]
+},"skyscraper2 skyscraper2 30":{"Name":"skyscraper2 skyscraper2","DisplayName":"skyscraper2 skyscraper2","S":0.2,"Static":true,"Visible":true,"L":[
+-6459.8876953125,
+199.79023742675781,
+-1335.48828125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper11 skyscraper11 31":{"Name":"skyscraper11 skyscraper11","DisplayName":"skyscraper11 skyscraper11","S":0.2,"Static":true,"Visible":true,"L":[
+-6453.935546875,
+199.36181640625,
+-1367.874755859375]
+,"R":[
+0,
+180,
+0]
+},"skyscraper11 skyscraper11 32":{"Name":"skyscraper11 skyscraper11","DisplayName":"skyscraper11 skyscraper11","S":0.2,"Static":true,"Visible":true,"L":[
+-6463.935546875,
+200.66189575195313,
+-1396.9749755859375]
+,"R":[
+0,
+90.000007629394531,
+0]
+},"apartment5 apartment5 33":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-6510.92626953125,
+196.12203979492188,
+-1421.75830078125]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 34":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-6511.0263671875,
+196.12203979492188,
+-1470.95849609375]
+,"R":[
+0,
+0,
+0]
+},"apartment5 apartment5 35":{"Name":"apartment5 apartment5","DisplayName":"apartment5 apartment5","S":0.4,"Static":true,"Visible":true,"L":[
+-6510.52587890625,
+202.72244262695313,
+-1515.2598876953125]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 36":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.4,"Static":true,"Visible":true,"L":[
+-6431.4755859375,
+204.68417358398438,
+-1692.7181396484375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper6 skyscraper6 37":{"Name":"skyscraper6 skyscraper6","DisplayName":"skyscraper6 skyscraper6","S":0.4,"Static":true,"Visible":true,"L":[
+-6516.98095703125,
+83.98419189453125,
+-1587.01708984375]
+,"R":[
+0,
+0,
+0]
+},"skyscraper11 skyscraper11 38":{"Name":"skyscraper11 skyscraper11","DisplayName":"skyscraper11 skyscraper11","S":0.2,"Static":true,"Visible":true,"L":[
+-6447.62939453125,
+221.66195678710938,
+-1623.2734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 39":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-949.867431640625]
+,"R":[
+180,
+0,
+0]
+},"PFB_Scaffolding_Section 40":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+347.01544189453125,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 41":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+362.01513671875,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 42":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+392.01513671875,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 43":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+377.01544189453125,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 44":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+422.01513671875,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 45":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+407.01544189453125,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 46":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+452.01513671875,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 47":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6441.35009765625,
+437.01544189453125,
+-1108.011474609375]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_Scaffolding_Section 48":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6424.89404296875,
+463.01519775390625,
+-1117.51220703125]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_Scaffolding_Section 49":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6437.88427734375,
+463.01519775390625,
+-1110.01220703125]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_Scaffolding_Section 50":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6398.921875,
+463.01519775390625,
+-1132.50732421875]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_Scaffolding_Section 51":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6411.912109375,
+463.01519775390625,
+-1125.00732421875]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_Scaffolding_Section 52":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6385.93994140625,
+463.01519775390625,
+-1140.00244140625]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_Scaffolding_Section 53":{"Name":"PFB_Scaffolding_Section","DisplayName":"PFB_Scaffolding_Section","S":5,"Static":true,"Visible":true,"L":[
+-6457.7841796875,
+463.01519775390625,
+-1098.5125732421875]
+,"R":[
+0,
+30.000001907348633,
+270]
+},"PFB_MagneticCube 54":{"Name":"PFB_MagneticCube","DisplayName":"PFB_MagneticCube","S":8,"Visible":true,"Static":true,"L":[
+-6448.3037109375,
+462.892333984375,
+-1103.9847412109375]
+,"R":[
+0,
+300,
+0]
+},"PFB_MagneticCube 55":{"Name":"PFB_MagneticCube","DisplayName":"PFB_MagneticCube","S":8,"Visible":true,"Static":true,"L":[
+-6454.1435546875,
+462.912353515625,
+-1100.6114501953125]
+,"R":[
+0,
+300,
+0]
+},"PFB_IceHarbour_Antenna_01 56":{"Name":"PFB_IceHarbour_Antenna_01","DisplayName":"PFB_IceHarbour_Antenna_01","S":1.1,"Static":true,"Visible":true,"L":[
+-6455.4033203125,
+461.37911987304688,
+-1099.62353515625]
+,"R":[
+344,
+0,
+344]
+},"PFB_VolcanoHarbour_Chain_01 57":{"Name":"PFB_VolcanoHarbour_Chain_01","DisplayName":"PFB_VolcanoHarbour_Chain_01","S":2.5,"Static":true,"Visible":true,"L":[
+-6376.12548828125,
+459.87957763671875,
+-1145.71728515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_VolcanoHarbour_Chain_01 58":{"Name":"PFB_VolcanoHarbour_Chain_01","DisplayName":"PFB_VolcanoHarbour_Chain_01","S":2.5,"Static":true,"Visible":true,"L":[
+-6376.12548828125,
+444.57925415039063,
+-1145.71728515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_VolcanoHarbour_Chain_01 59":{"Name":"PFB_VolcanoHarbour_Chain_01","DisplayName":"PFB_VolcanoHarbour_Chain_01","S":2.5,"Static":true,"Visible":true,"L":[
+-6376.12548828125,
+429.2789306640625,
+-1145.71728515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_VolcanoHarbour_Chain_01 60":{"Name":"PFB_VolcanoHarbour_Chain_01","DisplayName":"PFB_VolcanoHarbour_Chain_01","S":2.5,"Static":true,"Visible":true,"L":[
+-6376.12548828125,
+414.07861328125,
+-1145.71728515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Container_Red 61":{"Name":"PFB_Container_Red","DisplayName":"PFB_Container_Red","S":2,"Static":true,"Visible":true,"L":[
+-6376.0615234375,
+394.75827026367188,
+-1145.409423828125]
+,"R":[
+358.20401000976563,
+10.003423690795898,
+358.6678466796875]
+},"PFB_IceHarbour_Antenna_03 62":{"Name":"PFB_IceHarbour_Antenna_03","DisplayName":"PFB_IceHarbour_Antenna_03","S":1,"Static":true,"Visible":true,"L":[
+-6087.3525390625,
+395.78439331054688,
+-1691.003173828125]
+,"R":[
+0,
+330,
+0]
+},"PFB_IceHarbour_Antenna_03 63":{"Name":"PFB_IceHarbour_Antenna_03","DisplayName":"PFB_IceHarbour_Antenna_03","S":1,"Static":true,"Visible":true,"L":[
+-5897.3525390625,
+413.084228515625,
+-1181.003173828125]
+,"R":[
+8.649165153503418,
+239.61874389648438,
+354.96163940429688]
+},"PFB_StoneCliffFlat_03 64":{"Name":"PFB_StoneCliffFlat_03","DisplayName":"PFB_StoneCliffFlat_03","S":20,"Static":true,"Visible":true,"L":[
+-6152.41162109375,
+227.44305419921875,
+-1316.7679443359375]
+,"R":[
+0,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 65":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-1086.5657958984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 66":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-1223.3665771484375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 67":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-1360.1673583984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 68":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-1496.9681396484375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 69":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6539.2021484375,
+221.75946044921875,
+-1633.7689208984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 70":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-1633.7689208984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 71":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-1496.9681396484375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 72":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-1360.1673583984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 73":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-1223.3665771484375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 74":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-1086.5657958984375]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 75":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5949.2021484375,
+221.75946044921875,
+-949.867431640625]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 76":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6402.4052734375,
+221.75946044921875,
+-906.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 77":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6265.6083984375,
+221.75946044921875,
+-906.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 78":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6128.8115234375,
+221.75946044921875,
+-906.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 79":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5992.0146484375,
+221.75698852539063,
+-906.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 80":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-5992.0146484375,
+221.75698852539063,
+-1636.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 81":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6128.8115234375,
+221.75698852539063,
+-1636.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 82":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6265.6083984375,
+221.75698852539063,
+-1636.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_IceHarbour_Platform_End_03 83":{"Name":"PFB_IceHarbour_Platform_End_03","DisplayName":"PFB_IceHarbour_Platform_End_03","S":50,"Static":true,"Visible":true,"L":[
+-6402.4052734375,
+221.75698852539063,
+-1636.4658203125]
+,"R":[
+180,
+0,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Brown 84":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6362.0185546875,
+211.93470764160156,
+-1093.8946533203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Brown 85":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6272.0185546875,
+211.93470764160156,
+-1073.8946533203125]
+,"R":[
+0,
+120.00000762939453,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Brown 86":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-5992.0185546875,
+208.13447570800781,
+-1403.8946533203125]
+,"R":[
+0,
+170.00001525878906,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Brown 87":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6182.0185546875,
+208.13447570800781,
+-1603.8946533203125]
+,"R":[
+0,
+130.00001525878906,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Purple 88":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-5984.06201171875,
+214.07275390625,
+-1132.4359130859375]
+,"R":[
+355,
+264,
+2.0000002384185791]
+},"PFB_INS_Savannah_Tree_Short 89":{"Name":"PFB_INS_Savannah_Tree_Short","DisplayName":"PFB_INS_Savannah_Tree_Short","S":4,"Static":true,"Visible":true,"L":[
+-6102.83203125,
+214.02276611328125,
+-1072.08544921875]
+,"R":[
+1.0672170702719086E-07,
+320,
+4]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 90":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6218.73193359375,
+212.87608337402344,
+-1052.724365234375]
+,"R":[
+5.0000009536743164,
+333,
+1]
+},"PFB_INS_Savannah_Tree_Tall_Purple 91":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6315.09326171875,
+216.37608337402344,
+-1094.4296875]
+,"R":[
+357,
+73.999992370605469,
+1.0686816409588573E-07]
+},"PFB_INS_Savannah_Tree_Tall 92":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":4,"Static":true,"Visible":true,"L":[
+-6343.9296875,
+216.37608337402344,
+-1077.409423828125]
+,"R":[
+5.0000004768371582,
+107,
+5]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 93":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6383.361328125,
+217.87608337402344,
+-1596.9439697265625]
+,"R":[
+357,
+243,
+4]
+},"PFB_INS_Savannah_Tree_Short_Purple 94":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6354.6025390625,
+217.87608337402344,
+-1609.298095703125]
+,"R":[
+357,
+352,
+1]
+},"PFB_INS_Savannah_Tree_Short_Purple 95":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6341.07568359375,
+214.02606201171875,
+-1579.6639404296875]
+,"R":[
+2,
+25.000009536743164,
+4]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 96":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6372.80908203125,
+214.02606201171875,
+-1527.767822265625]
+,"R":[
+1.0000001192092896,
+85.999984741210938,
+5.0000004768371582]
+},"PFB_INS_Savannah_Tree_Tall 97":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":4,"Static":true,"Visible":true,"L":[
+-6104.07177734375,
+213.92605590820313,
+-1616.01513671875]
+,"R":[
+3,
+147,
+355]
+},"PFB_INS_Savannah_Tree_Short 98":{"Name":"PFB_INS_Savannah_Tree_Short","DisplayName":"PFB_INS_Savannah_Tree_Short","S":4,"Static":true,"Visible":true,"L":[
+-6005.0390625,
+216.47605895996094,
+-1234.62158203125]
+,"R":[
+356,
+300,
+3.0000002384185791]
+},"PFB_INS_Savannah_Tree_Tall_Purple 99":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6366.2236328125,
+218.47605895996094,
+-1233.25537109375]
+,"R":[
+358,
+271.99996948242188,
+356]
+},"PFB_INS_Savannah_Tree_Short 100":{"Name":"PFB_INS_Savannah_Tree_Short","DisplayName":"PFB_INS_Savannah_Tree_Short","S":4,"Static":true,"Visible":true,"L":[
+-6377.49560546875,
+217.42605590820313,
+-1267.6817626953125]
+,"R":[
+1.0000001192092896,
+254,
+358]
+},"PFB_INS_Savannah_Tree_Short_Yellow 101":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6390.947265625,
+215.27604675292969,
+-1347.2041015625]
+,"R":[
+359,
+206,
+358]
+},"PFB_INS_Savannah_Tree_Tall_Brown 102":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6371.009765625,
+214.52604675292969,
+-1388.305908203125]
+,"R":[
+4,
+239,
+357]
+},"PFB_INS_Savannah_Tree_Short_Yellow 103":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6226.01708984375,
+214.8260498046875,
+-1564.3089599609375]
+,"R":[
+357,
+83.000007629394531,
+0]
+},"PFB_INS_Savannah_Tree_Tall 104":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":4,"Static":true,"Visible":true,"L":[
+-5968.57421875,
+210.42605590820313,
+-1432.1195068359375]
+,"R":[
+356,
+262,
+359]
+},"PFB_INS_Savannah_Tree_Tall_Purple 105":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-5992.0205078125,
+212.77604675292969,
+-1427.9417724609375]
+,"R":[
+4.0000004768371582,
+301,
+4.0000004768371582]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 106":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6010.53125,
+215.52604675292969,
+-1548.459228515625]
+,"R":[
+4,
+353,
+357]
+},"PFB_INS_Savannah_Tree_Short_Yellow 107":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6043.77978515625,
+214.72602844238281,
+-1569.3741455078125]
+,"R":[
+3.0000002384185791,
+351,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Brown 108":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6013.45361328125,
+214.02603149414063,
+-1596.4962158203125]
+,"R":[
+355,
+73.000015258789063,
+4]
+},"PFB_INS_Savannah_Tree_Short 109":{"Name":"PFB_INS_Savannah_Tree_Short","DisplayName":"PFB_INS_Savannah_Tree_Short","S":4,"Static":true,"Visible":true,"L":[
+-6069.05419921875,
+213.37602233886719,
+-1598.4832763671875]
+,"R":[
+3,
+187,
+5]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 110":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6366.82666015625,
+213.72602844238281,
+-1310.7254638671875]
+,"R":[
+-6.6701066891994287E-09,
+189,
+1.0000001192092896]
+},"PFB_INS_Savannah_Tree_Tall_Purple 111":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6034.63720703125,
+214.32601928710938,
+-1102.5982666015625]
+,"R":[
+1,
+355,
+357]
+},"PFB_INS_Savannah_Tree_Short_Purple 112":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":4,"Static":true,"Visible":true,"L":[
+-6054.7412109375,
+215.82601928710938,
+-1075.78564453125]
+,"R":[
+3.0000002384185791,
+154,
+2.9999997615814209]
+},"PFB_INS_Savannah_Tree_Short_Yellow 113":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-5988.74560546875,
+216.176025390625,
+-1080.2822265625]
+,"R":[
+3.0000004768371582,
+42,
+0]
+},"PFB_INS_Savannah_Tree_Short_brown 114":{"Name":"PFB_INS_Savannah_Tree_Short_brown","DisplayName":"PFB_INS_Savannah_Tree_Short_brown","S":4,"Static":true,"Visible":true,"L":[
+-6280.78759765625,
+213.87602233886719,
+-1603.5369873046875]
+,"R":[
+1.0000001192092896,
+43,
+1.0000001192092896]
+},"PFB_INS_Savannah_Tree_Short 115":{"Name":"PFB_INS_Savannah_Tree_Short","DisplayName":"PFB_INS_Savannah_Tree_Short","S":4,"Static":true,"Visible":true,"L":[
+-6312.17822265625,
+214.32601928710938,
+-1582.5521240234375]
+,"R":[
+357,
+329,
+5.0000009536743164]
+},"PFB_INS_Savannah_Tree_Tall_Purple 116":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":4,"Static":true,"Visible":true,"L":[
+-5976.1396484375,
+213.02603149414063,
+-1332.344482421875]
+,"R":[
+355,
+186,
+0]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 117":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-5987.7802734375,
+210.47602844238281,
+-1363.4205322265625]
+,"R":[
+5.0000004768371582,
+92.0000228881836,
+3]
+},"PFB_INS_Savannah_Tree_Short_brown 118":{"Name":"PFB_INS_Savannah_Tree_Short_brown","DisplayName":"PFB_INS_Savannah_Tree_Short_brown","S":4,"Static":true,"Visible":true,"L":[
+-5994.2119140625,
+211.22602844238281,
+-1317.23095703125]
+,"R":[
+4,
+284,
+1.9999997615814209]
+},"PFB_IceHarbour_Antenna_02 119":{"Name":"PFB_IceHarbour_Antenna_02","DisplayName":"PFB_IceHarbour_Antenna_02","S":2,"Static":true,"Visible":true,"L":[
+-6436.62255859375,
+347.01931762695313,
+-1373.220947265625]
+,"R":[
+4.0000004768371582,
+195,
+5]
+},"PFB_INS_Savannah_Tree_Tall_Brown 120":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":4,"Static":true,"Visible":true,"L":[
+-6384.03564453125,
+212.56402587890625,
+-1457.3966064453125]
+,"R":[
+1.0000001192092896,
+331,
+359]
+},"PFB_INS_Savannah_Tree_Short_Yellow 121":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":4,"Static":true,"Visible":true,"L":[
+-6393.5986328125,
+214.46401977539063,
+-1426.06201171875]
+,"R":[
+5.0000004768371582,
+273,
+3.0000004768371582]
+}},"Authors":".286.9108.9123.8122.5106.7117.685.1110.9124.4104,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

@@ -1,0 +1,754 @@
+{"Date":"10:27:2024","Time":"17:12:43","Map":"Test Zone","Spawns":{"islandtex island 1":{"Name":"islandtex island","DisplayName":"islandtex island","S":40,"Static":true,"Visible":true,"L":[
+-6198.54931640625,
+209.06570434570313,
+-1352.9248046875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Palm1 2":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6105.275390625,
+203.50971984863281,
+-1270.8114013671875]
+,"R":[
+2.9543817043304443,
+106.01343536376953,
+350.52139282226563]
+},"PFB_Palm1 3":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6245.275390625,
+195.50971984863281,
+-1250.8114013671875]
+,"R":[
+353.34271240234375,
+186.10307312011719,
+347.75704956054688]
+},"PFB_Palm1 4":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6277.275390625,
+200.50971984863281,
+-1271.8114013671875]
+,"R":[
+353.34271240234375,
+106.10307312011719,
+347.75704956054688]
+},"PFB_Palm1 5":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6181.275390625,
+197.50971984863281,
+-1441.8114013671875]
+,"R":[
+357.3753662109375,
+236.06932067871094,
+9.7351999282836914]
+},"PFB_Palm1 6":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6261.275390625,
+197.50971984863281,
+-1433.8114013671875]
+,"R":[
+351.8408203125,
+336.85806274414063,
+1.3659809827804565]
+},"PFB_Palm2 7":{"Name":"PFB_Palm2","DisplayName":"PFB_Palm2","S":3,"Static":true,"Visible":true,"L":[
+-6203.84912109375,
+200.06108093261719,
+-1452.275634765625]
+,"R":[
+10,
+140,
+340]
+},"PFB_Palm2 8":{"Name":"PFB_Palm2","DisplayName":"PFB_Palm2","S":3,"Static":true,"Visible":true,"L":[
+-6294.84912109375,
+198.06108093261719,
+-1352.275634765625]
+,"R":[
+0.34197571873664856,
+333.61117553710938,
+0.17277507483959198]
+},"PFB_Palm1 9":{"Name":"PFB_Palm1","DisplayName":"PFB_Palm1","S":3,"Static":true,"Visible":true,"L":[
+-6115.275390625,
+201.50971984863281,
+-1275.8114013671875]
+,"R":[
+5.6583957672119141,
+205.28645324707031,
+340.86569213867188]
+},"PFB_PalmFern_Big 10":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.226,"Static":true,"Visible":true,"L":[
+-6267.5966796875,
+208.36114501953125,
+-1435.8602294921875]
+,"R":[
+-1.0672170702719086E-07,
+248,
+3.0000002384185791]
+},"PFB_PalmFern_Medium 11":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.396,"Static":true,"Visible":true,"L":[
+-6261.244140625,
+208.36112976074219,
+-1436.2279052734375]
+,"R":[
+3.0000002384185791,
+147,
+357]
+},"PFB_PalmFern_Big 12":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.974,"Static":true,"Visible":true,"L":[
+-6264.35986328125,
+208.36112976074219,
+-1433.4658203125]
+,"R":[
+359,
+221,
+359]
+},"PFB_PalmFern_Big 13":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.112,"Static":true,"Visible":true,"L":[
+-6279.95703125,
+208.336669921875,
+-1270.599609375]
+,"R":[
+2,
+109.99999237060547,
+358]
+},"PFB_PalmFern_Medium 14":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.009,"Static":true,"Visible":true,"L":[
+-6275.32373046875,
+208.361083984375,
+-1269.485595703125]
+,"R":[
+1.0000001192092896,
+61.000003814697266,
+358]
+},"PFB_PalmFern_Big 15":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.236,"Static":true,"Visible":true,"L":[
+-6276.9345703125,
+208.36114501953125,
+-1274.03564453125]
+,"R":[
+3.0000002384185791,
+195,
+3]
+},"PFB_PalmFern_Big 16":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.101,"Static":true,"Visible":true,"L":[
+-6272.41796875,
+208.36114501953125,
+-1272.107177734375]
+,"R":[
+1.0000001192092896,
+110.99999237060547,
+358]
+},"PFB_PalmFern_Medium 17":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.742,"Static":true,"Visible":true,"L":[
+-6116.2265625,
+208.3455810546875,
+-1282.036865234375]
+,"R":[
+357,
+140,
+359]
+},"PFB_PalmFern_Big 18":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.252,"Static":true,"Visible":true,"L":[
+-6113.79296875,
+208.36114501953125,
+-1276.55126953125]
+,"R":[
+3.0000002384185791,
+287,
+2]
+},"PFB_PalmFern_Big 19":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.88,"Static":true,"Visible":true,"L":[
+-6116.05517578125,
+208.36114501953125,
+-1272.705078125]
+,"R":[
+2.0000002384185791,
+247,
+2]
+},"PFB_PalmFern_Big 20":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.171,"Static":true,"Visible":true,"L":[
+-6110.03564453125,
+208.36114501953125,
+-1273.8411865234375]
+,"R":[
+358,
+292,
+0]
+},"PFB_PalmFern_Medium 21":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.507,"Static":true,"Visible":true,"L":[
+-6109.05224609375,
+208.36151123046875,
+-1280.1029052734375]
+,"R":[
+358,
+281,
+1.0000001192092896]
+},"PFB_PalmFern_Big 22":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.944,"Static":true,"Visible":true,"L":[
+-6113.1083984375,
+208.36151123046875,
+-1279.2266845703125]
+,"R":[
+358,
+102,
+358]
+},"PFB_PalmFern_Medium 23":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.617,"Static":true,"Visible":true,"L":[
+-6106.55615234375,
+208.36012268066406,
+-1272.7044677734375]
+,"R":[
+359,
+246,
+358]
+},"PFB_PalmFern_Medium 24":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.529,"Static":true,"Visible":true,"L":[
+-6120.45751953125,
+208.35330200195313,
+-1278.76708984375]
+,"R":[
+1.0000001192092896,
+131,
+358]
+},"PFB_PalmFern_Big 25":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.796,"Static":true,"Visible":true,"L":[
+-6179.25,
+207.9591064453125,
+-1444.3255615234375]
+,"R":[
+359,
+333,
+3]
+},"PFB_PalmFern_Big 26":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.954,"Static":true,"Visible":true,"L":[
+-6180.1728515625,
+206.52445983886719,
+-1449.0443115234375]
+,"R":[
+359,
+158,
+1.9999997615814209]
+},"PFB_PalmFern_Medium 27":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.941,"Static":true,"Visible":true,"L":[
+-6175.56298828125,
+207.19818115234375,
+-1446.7265625]
+,"R":[
+3.0000004768371582,
+8,
+3]
+},"PFB_PalmFern_Big 28":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.378,"Static":true,"Visible":true,"L":[
+-6156.8359375,
+208.32383728027344,
+-1416.314697265625]
+,"R":[
+357,
+232,
+1.9999997615814209]
+},"PFB_PalmFern_Big 29":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.063,"Static":true,"Visible":true,"L":[
+-6152.76318359375,
+208.361083984375,
+-1413.720458984375]
+,"R":[
+2,
+3,
+1]
+},"PFB_PalmFern_Medium 30":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.825,"Static":true,"Visible":true,"L":[
+-6157.24755859375,
+208.36114501953125,
+-1411.0113525390625]
+,"R":[
+2,
+310,
+357]
+},"PFB_PalmFern_Big 31":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.726,"Static":true,"Visible":true,"L":[
+-6147.38525390625,
+208.35940551757813,
+-1414.336669921875]
+,"R":[
+0,
+120.00000762939453,
+359]
+},"PFB_PalmFern_Big 32":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.548,"Static":true,"Visible":true,"L":[
+-6152.16748046875,
+208.36112976074219,
+-1409.62890625]
+,"R":[
+357,
+189,
+-2.6717041023971433E-08]
+},"PFB_PalmFern_Medium 33":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.263,"Static":true,"Visible":true,"L":[
+-6156.82421875,
+208.36112976074219,
+-1405.2796630859375]
+,"R":[
+0,
+224.99998474121094,
+3.0000004768371582]
+},"PFB_PalmFern_Medium 34":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.724,"Static":true,"Visible":true,"L":[
+-6146.72509765625,
+208.35530090332031,
+-1407.9853515625]
+,"R":[
+0,
+81,
+0]
+},"PFB_PalmFern_Big 35":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.465,"Static":true,"Visible":true,"L":[
+-6289.32958984375,
+206.65234375,
+-1300.0382080078125]
+,"R":[
+3.0000007152557373,
+144,
+1.0000002384185791]
+},"PFB_PalmFern_Medium 36":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.409,"Static":true,"Visible":true,"L":[
+-6295.21728515625,
+204.92988586425781,
+-1268.5435791015625]
+,"R":[
+358,
+330,
+2.9999997615814209]
+},"PFB_PalmFern_Medium 37":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.949,"Static":true,"Visible":true,"L":[
+-6293.583984375,
+205.11839294433594,
+-1265.1307373046875]
+,"R":[
+359,
+-1.0018357897934038E-05,
+1]
+},"PFB_PalmFern_Medium 38":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.7,"Static":true,"Visible":true,"L":[
+-6299.34619140625,
+203.71495056152344,
+-1267.0751953125]
+,"R":[
+0,
+212,
+357]
+},"PFB_PalmFern_Big 39":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.617,"Static":true,"Visible":true,"L":[
+-6095.78759765625,
+205.21722412109375,
+-1365.3812255859375]
+,"R":[
+1.0000001192092896,
+16.999998092651367,
+359]
+},"PFB_PalmFern_Big 40":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.961,"Static":true,"Visible":true,"L":[
+-6099.4296875,
+206.28952026367188,
+-1369.890625]
+,"R":[
+1.0000001192092896,
+261,
+1]
+},"PFB_PalmFern_Big 41":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.371,"Static":true,"Visible":true,"L":[
+-6098.67236328125,
+206.07392883300781,
+-1358.7230224609375]
+,"R":[
+358,
+241,
+2.0000002384185791]
+},"PFB_PalmFern_Medium 42":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.199,"Static":true,"Visible":true,"L":[
+-6097.32861328125,
+205.71852111816406,
+-1362.5072021484375]
+,"R":[
+3.0000002384185791,
+29,
+357]
+},"PFB_PalmFern_Big 43":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.359,"Static":true,"Visible":true,"L":[
+-6100.34375,
+206.58047485351563,
+-1363.3275146484375]
+,"R":[
+357,
+258,
+357]
+},"PFB_PalmFern_Medium 44":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.039,"Static":true,"Visible":true,"L":[
+-6182.22119140625,
+207.20909118652344,
+-1446.7342529296875]
+,"R":[
+359,
+344,
+0]
+},"PFB_PalmFern_Medium 45":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.466,"Static":true,"Visible":true,"L":[
+-6290.77294921875,
+206.19084167480469,
+-1353.2884521484375]
+,"R":[
+3,
+91,
+358]
+},"PFB_PalmFern_Medium 46":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.461,"Static":true,"Visible":true,"L":[
+-6293.48876953125,
+205.28385925292969,
+-1350.9598388671875]
+,"R":[
+0,
+221,
+357]
+},"PFB_PalmFern_Big 47":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.406,"Static":true,"Visible":true,"L":[
+-6189.58544921875,
+208.35507202148438,
+-1267.6593017578125]
+,"R":[
+1.0000001192092896,
+71,
+358]
+},"PFB_PalmFern_Medium 48":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6191.76806640625,
+208.361083984375,
+-1271.840576171875]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Big 49":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.295,"Static":true,"Visible":true,"L":[
+-6194.85107421875,
+208.36114501953125,
+-1271.048828125]
+,"R":[
+1.9999997615814209,
+185,
+359]
+},"PFB_PalmFern_Big 50":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.499,"Static":true,"Visible":true,"L":[
+-6185.93310546875,
+208.36076354980469,
+-1271.476806640625]
+,"R":[
+357,
+359,
+358]
+},"PFB_PalmFern_Medium 51":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.057,"Static":true,"Visible":true,"L":[
+-6261.78564453125,
+205.74742126464844,
+-1257.4678955078125]
+,"R":[
+357,
+32.000007629394531,
+359]
+},"PFB_PalmFern_Medium 52":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.4,"Static":true,"Visible":true,"L":[
+-6259.7060546875,
+206.02711486816406,
+-1258.3353271484375]
+,"R":[
+2,
+319,
+357]
+},"PFB_PalmFern_Big 53":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.427,"Static":true,"Visible":true,"L":[
+-6259.7060546875,
+206.03276062011719,
+-1258.3353271484375]
+,"R":[
+1,
+1.002002591121709E-05,
+2]
+},"PFB_PalmFern_Medium 54":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.418,"Static":true,"Visible":true,"L":[
+-6264.71484375,
+205.53787231445313,
+-1256.8197021484375]
+,"R":[
+0,
+129,
+0]
+},"PFB_PalmFern_Big 55":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.563,"Static":true,"Visible":true,"L":[
+-6267.5400390625,
+205.99038696289063,
+-1258.2197265625]
+,"R":[
+358,
+189,
+357]
+},"PFB_PalmFern_Medium 56":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.98,"Static":true,"Visible":true,"L":[
+-6272.4541015625,
+206.317138671875,
+-1259.1334228515625]
+,"R":[
+359,
+159,
+0.99999988079071045]
+},"PFB_PalmFern_Big 57":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.806,"Static":true,"Visible":true,"L":[
+-6271.185546875,
+208.06576538085938,
+-1264.551513671875]
+,"R":[
+359,
+331,
+3.0000002384185791]
+},"PFB_PalmFern_Big 58":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.389,"Static":true,"Visible":true,"L":[
+-6276.572265625,
+208.28253173828125,
+-1265.205322265625]
+,"R":[
+357,
+330,
+359]
+},"PFB_PalmFern_Big 59":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.996,"Static":true,"Visible":true,"L":[
+-6265.1416015625,
+208.23883056640625,
+-1265.052490234375]
+,"R":[
+358,
+73.999992370605469,
+1.9999997615814209]
+},"PFB_PalmFern_Medium 60":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.473,"Static":true,"Visible":true,"L":[
+-6258.84033203125,
+208.11119079589844,
+-1264.708984375]
+,"R":[
+2,
+3.0000002384185791,
+0]
+},"PFB_PalmFern_Medium 61":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.169,"Static":true,"Visible":true,"L":[
+-6261.1103515625,
+208.361083984375,
+-1268.617919921875]
+,"R":[
+5.336085351359543E-08,
+99,
+1]
+},"PFB_PalmFern_Medium 62":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.242,"Static":true,"Visible":true,"L":[
+-6265.9267578125,
+208.36114501953125,
+-1270.00048828125]
+,"R":[
+359,
+141,
+1.0000001192092896]
+},"PFB_PalmFern_Medium 63":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.093,"Static":true,"Visible":true,"L":[
+-6156.861328125,
+208.86112976074219,
+-1344.8477783203125]
+,"R":[
+359,
+10.000016212463379,
+1]
+},"PFB_PalmFern_Medium 64":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.204,"Static":true,"Visible":true,"L":[
+-6159.48681640625,
+208.861083984375,
+-1343.97607421875]
+,"R":[
+359,
+305,
+357]
+},"PFB_PalmFern_Medium 65":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.605,"Static":true,"Visible":true,"L":[
+-6263.70947265625,
+208.86112976074219,
+-1373.7891845703125]
+,"R":[
+359,
+291,
+0]
+},"PFB_PalmFern_Big 66":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.296,"Static":true,"Visible":true,"L":[
+-6265.15625,
+208.86112976074219,
+-1377.0943603515625]
+,"R":[
+1,
+16.000001907348633,
+2]
+},"PFB_PalmFern_Medium 67":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.089,"Static":true,"Visible":true,"L":[
+-6261.75830078125,
+208.86114501953125,
+-1376.9619140625]
+,"R":[
+359,
+184,
+358]
+},"PFB_PalmFern_Medium 68":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.417,"Static":true,"Visible":true,"L":[
+-6157.7763671875,
+208.86112976074219,
+-1342.7115478515625]
+,"R":[
+358,
+24.999998092651367,
+1]
+},"PFB_Cliff_Top_Mud_Grass 69":{"Name":"PFB_Cliff_Top_Mud_Grass","DisplayName":"PFB_Cliff_Top_Mud_Grass","S":1.5,"Static":true,"Visible":true,"L":[
+-6297.837890625,
+201.06108093261719,
+-1440.253662109375]
+,"R":[
+6.6023221015930176,
+60.8640022277832,
+3.7447576522827148]
+},"PFB_Cliff_Top_Mud_Grass 70":{"Name":"PFB_Cliff_Top_Mud_Grass","DisplayName":"PFB_Cliff_Top_Mud_Grass","S":1.5,"Static":true,"Visible":true,"L":[
+-6300.837890625,
+194.06108093261719,
+-1429.253662109375]
+,"R":[
+353.0584716796875,
+121.75287628173828,
+359.79287719726563]
+},"PFB_Rock_Detail_Med_Desert_01_Grass 71":{"Name":"PFB_Rock_Detail_Med_Desert_01_Grass","DisplayName":"PFB_Rock_Detail_Med_Desert_01_Grass","S":1.81,"Static":true,"Visible":true,"L":[
+-6216.1044921875,
+222.06108093261719,
+-1266.715087890625]
+,"R":[
+3.0000002384185791,
+39.999996185302734,
+2.0000002384185791]
+},"PFB_Rock_Detail_Med_Desert_01_Grass 72":{"Name":"PFB_Rock_Detail_Med_Desert_01_Grass","DisplayName":"PFB_Rock_Detail_Med_Desert_01_Grass","S":1.81,"Static":true,"Visible":true,"L":[
+-6208.1044921875,
+219.06108093261719,
+-1269.715087890625]
+,"R":[
+3.0000002384185791,
+39.999996185302734,
+2.0000002384185791]
+},"PFB_Rock_Detail_Med_Desert_01_Grass 73":{"Name":"PFB_Rock_Detail_Med_Desert_01_Grass","DisplayName":"PFB_Rock_Detail_Med_Desert_01_Grass","S":1.81,"Static":true,"Visible":true,"L":[
+-6209.1044921875,
+212.06108093261719,
+-1280.715087890625]
+,"R":[
+3.0000007152557373,
+119.99999237060547,
+2]
+},"PFB_PalmFern_Medium 74":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6222.76806640625,
+222.9610595703125,
+-1273.840576171875]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Medium 75":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6207.47265625,
+214.06051635742188,
+-1283.840576171875]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Medium 76":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6229.07421875,
+208.86019897460938,
+-1274.9403076171875]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Medium 77":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6227.77294921875,
+208.86019897460938,
+-1277.3421630859375]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Medium 78":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.122,"Static":true,"Visible":true,"L":[
+-6213.37841796875,
+208.86019897460938,
+-1288.0419921875]
+,"R":[
+2.9999997615814209,
+259,
+1]
+},"PFB_PalmFern_Big 79":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.296,"Static":true,"Visible":true,"L":[
+-6305.15625,
+227.56105041503906,
+-1437.0943603515625]
+,"R":[
+1,
+16.000001907348633,
+2]
+},"PFB_PalmFern_Medium 80":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.089,"Static":true,"Visible":true,"L":[
+-6301.75830078125,
+227.56106567382813,
+-1436.9619140625]
+,"R":[
+359,
+184,
+358]
+},"PFB_PalmFern_Big 81":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.296,"Static":true,"Visible":true,"L":[
+-6284.53369140625,
+225.16090393066406,
+-1435.70849609375]
+,"R":[
+1.0000001192092896,
+69,
+1.9999997615814209]
+},"PFB_PalmFern_Medium 82":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.089,"Static":true,"Visible":true,"L":[
+-6282.3828125,
+225.76095581054688,
+-1438.342529296875]
+,"R":[
+359,
+237,
+358]
+},"PFB_PalmFern_Medium 83":{"Name":"PFB_PalmFern_Medium","DisplayName":"PFB_PalmFern_Medium","S":1.089,"Static":true,"Visible":true,"L":[
+-6292.3828125,
+226.6610107421875,
+-1448.342529296875]
+,"R":[
+359,
+237,
+358]
+},"PFB_Palm_1 84":{"Name":"PFB_Palm_1","DisplayName":"PFB_Palm_1","S":2,"Static":true,"Visible":true,"L":[
+-6295.025390625,
+220.4595947265625,
+-1446.3387451171875]
+,"R":[
+350,
+270,
+350]
+},"PFB_PalmFern_Big 85":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.296,"Static":true,"Visible":true,"L":[
+-6284.94384765625,
+215.46031188964844,
+-1426.8082275390625]
+,"R":[
+1.0000001192092896,
+69,
+1.9999997615814209]
+},"PFB_IceHarbour_Antenna_03 86":{"Name":"PFB_IceHarbour_Antenna_03","DisplayName":"PFB_IceHarbour_Antenna_03","S":1,"Static":true,"Visible":true,"L":[
+-6305.09619140625,
+223.16616821289063,
+-1431.1646728515625]
+,"R":[
+340,
+4.5428345174514106E-07,
+320]
+},"PFB_PalmFern_Big 87":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.296,"Static":true,"Visible":true,"L":[
+-6302.353515625,
+225.66093444824219,
+-1427.0943603515625]
+,"R":[
+1,
+16.000001907348633,
+2]
+},"PFB_CrashedMayorPlane 88":{"Name":"PFB_CrashedMayorPlane","DisplayName":"PFB_CrashedMayorPlane","S":1.5,"Static":true,"Visible":true,"L":[
+-6212.087890625,
+227.85635375976563,
+-1271.06103515625]
+,"R":[
+12.999998092651367,
+60.000003814697266,
+330]
+},"PFB_CrashedPlaneWing 89":{"Name":"PFB_CrashedPlaneWing","DisplayName":"PFB_CrashedPlaneWing","S":1.5,"Static":true,"Visible":true,"L":[
+-6207.6787109375,
+224.81016540527344,
+-1275.40283203125]
+,"R":[
+352,
+0,
+357]
+},"PFB_CrashedPlaneWing 90":{"Name":"PFB_CrashedPlaneWing","DisplayName":"PFB_CrashedPlaneWing","S":1.5,"Static":true,"Visible":true,"L":[
+-6202.18310546875,
+212.71003723144531,
+-1280.803955078125]
+,"R":[
+11.76959228515625,
+193.74795532226563,
+45.4437255859375]
+},"PFB_ShipWreck 91":{"Name":"PFB_ShipWreck","DisplayName":"PFB_ShipWreck","S":0.7,"Static":true,"Visible":true,"L":[
+-6071.81591796875,
+195.70576477050781,
+-1401.4534912109375]
+,"R":[
+340,
+130.00001525878906,
+9.99999713897705]
+},"PFB_Rock_Detail_Med_Desert_01_Grass 92":{"Name":"PFB_Rock_Detail_Med_Desert_01_Grass","DisplayName":"PFB_Rock_Detail_Med_Desert_01_Grass","S":1.5,"Static":true,"Visible":true,"L":[
+-6068.6328125,
+211.20381164550781,
+-1369.3177490234375]
+,"R":[
+358,
+300,
+5.3393378607324848E-08]
+},"PFB_PalmFern_Big 93":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.961,"Static":true,"Visible":true,"L":[
+-6069.31982421875,
+212.49050903320313,
+-1366.7913818359375]
+,"R":[
+1.0000001192092896,
+261,
+1]
+},"PFB_PalmFern_Big 94":{"Name":"PFB_PalmFern_Big","DisplayName":"PFB_PalmFern_Big","S":1.2,"Static":true,"Visible":true,"L":[
+-6077.41796875,
+205.69070434570313,
+-1372.68994140625]
+,"R":[
+1.0000001192092896,
+261,
+1]
+}},"Authors":".892.1100.1115.2112.6105.4118.487.9102.5112.8100,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

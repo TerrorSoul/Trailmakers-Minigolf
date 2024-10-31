@@ -1,0 +1,554 @@
+{"Date":"10:28:2024","Time":"14:37:29","Map":"Test Zone","Spawns":{"PFB_PlateCanyon_01 1":{"Name":"PFB_PlateCanyon_01","DisplayName":"PFB_PlateCanyon_01","S":5000,"Static":true,"Visible":true,"L":[
+-6192.912109375,
+-2131,
+-1431.3126220703125]
+,"R":[
+1.0000002384185791,
+-8.3389023464164325E-10,
+359]
+},"PFB_Rock_Desert_Arc 2":{"Name":"PFB_Rock_Desert_Arc","DisplayName":"PFB_Rock_Desert_Arc","S":1,"Static":true,"Visible":true,"L":[
+-6301.01220703125,
+203.76611328125,
+-1430.2525634765625]
+,"R":[
+359,
+60.000003814697266,
+2]
+},"PFB_Rock_Desert_Arc 3":{"Name":"PFB_Rock_Desert_Arc","DisplayName":"PFB_Rock_Desert_Arc","S":5,"Static":true,"Visible":true,"L":[
+-6372.01220703125,
+203.76611328125,
+-1219.2525634765625]
+,"R":[
+50.105030059814453,
+4.3485255241394043,
+222.65147399902344]
+},"PFB_Cliff_Med_Desert 4":{"Name":"PFB_Cliff_Med_Desert","DisplayName":"PFB_Cliff_Med_Desert","S":1,"Static":true,"Visible":true,"L":[
+-6326.21337890625,
+225.31613159179688,
+-1289.1480712890625]
+,"R":[
+356,
+74.999992370605469,
+354]
+},"PFB_Cliff_Med_Desert 5":{"Name":"PFB_Cliff_Med_Desert","DisplayName":"PFB_Cliff_Med_Desert","S":1,"Static":true,"Visible":true,"L":[
+-6343.21337890625,
+216.31613159179688,
+-1273.1480712890625]
+,"R":[
+356,
+74.999992370605469,
+354]
+},"PFB_Cliff_Med_Desert 6":{"Name":"PFB_Cliff_Med_Desert","DisplayName":"PFB_Cliff_Med_Desert","S":1,"Static":true,"Visible":true,"L":[
+-6338.21337890625,
+243.31613159179688,
+-1294.1480712890625]
+,"R":[
+356,
+74.999992370605469,
+354]
+},"PFB_Rock_Detail_Med_Desert_01 7":{"Name":"PFB_Rock_Detail_Med_Desert_01","DisplayName":"PFB_Rock_Detail_Med_Desert_01","S":2,"Static":true,"Visible":true,"L":[
+-6109.818359375,
+223.96614074707031,
+-1427.84765625]
+,"R":[
+359.51187133789063,
+14.478044509887695,
+348.841064453125]
+},"PFB_DesertRock_01 8":{"Name":"PFB_DesertRock_01","DisplayName":"PFB_DesertRock_01","S":1,"Static":true,"Visible":true,"L":[
+-5726.21337890625,
+192.51614379882813,
+-1284.059326171875]
+,"R":[
+0,
+345,
+0]
+},"PFB_DesertRock_01 9":{"Name":"PFB_DesertRock_01","DisplayName":"PFB_DesertRock_01","S":1,"Static":true,"Visible":true,"L":[
+-6109.21337890625,
+179.31613159179688,
+-1228.059326171875]
+,"R":[
+352.56451416015625,
+346.93563842773438,
+330.85256958007813]
+},"PFB_DesertRock_01 10":{"Name":"PFB_DesertRock_01","DisplayName":"PFB_DesertRock_01","S":1,"Static":true,"Visible":true,"L":[
+-6179.21337890625,
+202.51614379882813,
+-1597.059326171875]
+,"R":[
+358.08065795898438,
+52.4397087097168,
+118.89680480957031]
+},"PFB_Rock_Desert_Arc 11":{"Name":"PFB_Rock_Desert_Arc","DisplayName":"PFB_Rock_Desert_Arc","S":2,"Static":true,"Visible":true,"L":[
+-6332.01220703125,
+187.76611328125,
+-1516.2525634765625]
+,"R":[
+36.8654899597168,
+6.3274469375610352,
+335.7738037109375]
+},"PFB_DesertRock_04 12":{"Name":"PFB_DesertRock_04","DisplayName":"PFB_DesertRock_04","S":1,"Static":true,"Visible":true,"L":[
+-6133.77490234375,
+215.26614379882813,
+-1204.656494140625]
+,"R":[
+330,
+30.000001907348633,
+180]
+},"PFB_DesertRock_04 13":{"Name":"PFB_DesertRock_04","DisplayName":"PFB_DesertRock_04","S":1,"Static":true,"Visible":true,"L":[
+-6125.77490234375,
+229.26614379882813,
+-1205.656494140625]
+,"R":[
+357.2850341796875,
+41.336574554443359,
+142.18887329101563]
+},"PFB_Bones_GiantRibcage 14":{"Name":"PFB_Bones_GiantRibcage","DisplayName":"PFB_Bones_GiantRibcage","S":3,"Static":true,"Visible":true,"L":[
+-6370.52294921875,
+148.26617431640625,
+-1090.3328857421875]
+,"R":[
+30.000001907348633,
+315,
+15.000001907348633]
+},"PFB_GiantBone_2 15":{"Name":"PFB_GiantBone_2","DisplayName":"PFB_GiantBone_2","S":1,"Static":true,"Visible":true,"L":[
+-5990.779296875,
+174.91619873046875,
+-1369.1295166015625]
+,"R":[
+-8.5377365621752688E-07,
+163,
+285]
+},"PFB_Cactus_Ball 16":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6127.39794921875,
+209.61592102050781,
+-1467.8780517578125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 17":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6151.56201171875,
+209.61592102050781,
+-1432.12890625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 18":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6226.0517578125,
+210.97572326660156,
+-1402.19677734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 19":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6276.97607421875,
+211.43321228027344,
+-1352.81103515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 20":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6183.7421875,
+210.38320922851563,
+-1233.620849609375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 21":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6133.05859375,
+209.63320922851563,
+-1246.0740966796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 22":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6208.6396484375,
+210.93182373046875,
+-1556.227294921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 23":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6176.51611328125,
+210.43182373046875,
+-1566.2431640625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 24":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6072.546875,
+209.03181457519531,
+-1640.6044921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 25":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6303.607421875,
+211.78181457519531,
+-1265.3271484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 26":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6373.9814453125,
+212.73182678222656,
+-1151.9891357421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 27":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6248.19384765625,
+210.98182678222656,
+-1132.673095703125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 28":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6293.33837890625,
+233.93182373046875,
+-1419.7880859375]
+,"R":[
+15.000001907348633,
+0,
+0]
+},"PFB_Cactus_Bush 29":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6264.45556640625,
+210.6318359375,
+-1123.0379638671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 30":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6166.94970703125,
+209.58183288574219,
+-1283.4815673828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 31":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6032.03564453125,
+207.48182678222656,
+-1582.9281005859375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 32":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6256.68359375,
+210.93183898925781,
+-1470.0223388671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 33":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6279.70849609375,
+210.68840026855469,
+-1208.50048828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 34":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-5883.08984375,
+206.18840026855469,
+-1427.394287109375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 35":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6104.8232421875,
+208.88841247558594,
+-1169.2315673828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 36":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6107.89111328125,
+208.88841247558594,
+-1110.5330810546875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 37":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6658.90283203125,
+216.53842163085938,
+-1173.9075927734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 38":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6443.087890625,
+213.33842468261719,
+-1399.3145751953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 39":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6269.9765625,
+211.58842468261719,
+-1501.26513671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 40":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6203.00439453125,
+210.43841552734375,
+-1321.285888671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 41":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6319.2939453125,
+211.68841552734375,
+-1264.72900390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 42":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6158.0595703125,
+209.88841247558594,
+-1587.7442626953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 43":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6203.42626953125,
+210.43841552734375,
+-1365.9613037109375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 44":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6284.5888671875,
+211.43841552734375,
+-1204.63427734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 45":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6340.25732421875,
+212.48841857910156,
+-1381.8792724609375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 46":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6097.486328125,
+209.23843383789063,
+-1417.3389892578125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 47":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6153.0419921875,
+209.98843383789063,
+-1507.335205078125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 48":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6304.1640625,
+211.83845520019531,
+-1624.4759521484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 49":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6295.23828125,
+211.83845520019531,
+-1391.9150390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 50":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6293.65673828125,
+211.83845520019531,
+-1392.75390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 51":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6159.92822265625,
+209.58845520019531,
+-1119.945556640625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 52":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6216.88720703125,
+210.28848266601563,
+-1293.197998046875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 53":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6199.1181640625,
+215.78846740722656,
+-1583.7581787109375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 54":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6123.8125,
+208.9384765625,
+-1409.1121826171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush 55":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6116.92626953125,
+218.38845825195313,
+-1416.787841796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 56":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6120.62890625,
+218.98846435546875,
+-1417.0648193359375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 57":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6110.02587890625,
+230.23846435546875,
+-1434.6483154296875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush_Populate 58":{"Name":"PFB_Cactus_Bush_Populate","DisplayName":"PFB_Cactus_Bush_Populate","S":1,"Static":true,"Visible":true,"L":[
+-6215.7666015625,
+231.73846435546875,
+-1083.4708251953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 59":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6278.9287109375,
+211.12406921386719,
+-1241.483154296875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush_Populate 60":{"Name":"PFB_Cactus_Bush_Populate","DisplayName":"PFB_Cactus_Bush_Populate","S":1,"Static":true,"Visible":true,"L":[
+-6322.5107421875,
+242.62406921386719,
+-1294.8502197265625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Bush_Populate 61":{"Name":"PFB_Cactus_Bush_Populate","DisplayName":"PFB_Cactus_Bush_Populate","S":1,"Static":true,"Visible":true,"L":[
+-6340.70361328125,
+254.62406921386719,
+-1291.1654052734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 62":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6334.34765625,
+254.62406921386719,
+-1287.0870361328125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 63":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6290.01708984375,
+211.72406005859375,
+-1429.208251953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_ShipWreck 64":{"Name":"PFB_ShipWreck","DisplayName":"PFB_ShipWreck","S":1,"Static":true,"Visible":true,"L":[
+-6575.50634765625,
+207.47407531738281,
+-1384.242919921875]
+,"R":[
+345,
+240,
+12]
+},"PFB_Cactus_Bush_Populate 65":{"Name":"PFB_Cactus_Bush_Populate","DisplayName":"PFB_Cactus_Bush_Populate","S":1,"Static":true,"Visible":true,"L":[
+-6453.7109375,
+213.72407531738281,
+-1523.21826171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Ball 66":{"Name":"PFB_Cactus_Ball","DisplayName":"PFB_Cactus_Ball","S":1,"Static":true,"Visible":true,"L":[
+-6463.15625,
+213.424072265625,
+-1270.9520263671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Cactus_Star_Plant 67":{"Name":"PFB_Cactus_Star_Plant","DisplayName":"PFB_Cactus_Star_Plant","S":1,"Static":true,"Visible":true,"L":[
+-6455.79541015625,
+213.47406005859375,
+-1097.56396484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_GoldChest 68":{"Name":"PFB_GoldChest","DisplayName":"PFB_GoldChest","S":2,"Static":true,"Visible":true,"L":[
+-6607.2373046875,
+214.12406921386719,
+-1325.0494384765625]
+,"R":[
+15.000000953674316,
+135,
+345]
+},"PFB_Cactus_Bush 69":{"Name":"PFB_Cactus_Bush","DisplayName":"PFB_Cactus_Bush","S":1,"Static":true,"Visible":true,"L":[
+-6149.90625,
+250.11326599121094,
+-1191.0985107421875]
+,"R":[
+0,
+0,
+0]
+}},"Authors":".286.8109.9123.5119.3108.7117.685.1110.5112.0108,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

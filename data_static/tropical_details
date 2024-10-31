@@ -1,0 +1,1562 @@
+{"Date":"10:21:2024","Time":"21:39:46","Map":"Test Zone","Spawns":{"PFB_vikingStatue_01 1":{"Name":"PFB_vikingStatue_01","DisplayName":"PFB_vikingStatue_01","S":660,"Static":true,"Visible":true,"L":[
+-5838.08056640625,
+-1384,
+-1811.39208984375]
+,"R":[
+359.938720703125,
+81.0345230102539,
+179.21879577636719]
+},"PFB_INS_Savannah_Tree_Tall_Purple 2":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6303.94287109375,
+210.70623779296875,
+-1448.427978515625]
+,"R":[
+355,
+181,
+1.0000001192092896]
+},"PFB_INS_Savannah_Tree_Tall_Purple 3":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6347.94287109375,
+182.70623779296875,
+-1191.427978515625]
+,"R":[
+1.9988973140716553,
+285.99679565429688,
+1.1219381093978882]
+},"PFB_INS_Savannah_Tree_Tall_Brown 4":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":10,"Static":true,"Visible":true,"L":[
+-5990.6953125,
+213.40626525878906,
+-1353.7972412109375]
+,"R":[
+359,
+352,
+356]
+},"PFB_INS_Savannah_Tree_Short_Yellow 5":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-6131.45166015625,
+219.20626831054688,
+-1064.1041259765625]
+,"R":[
+5.0000004768371582,
+145,
+355]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 6":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-6383.86474609375,
+208.95626831054688,
+-1009.890380859375]
+,"R":[
+356,
+31.999996185302734,
+4.0000004768371582]
+},"PFB_INS_Savannah_Tree_Tall_Brown 7":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":10,"Static":true,"Visible":true,"L":[
+-5879.03564453125,
+213.95626831054688,
+-1162.5545654296875]
+,"R":[
+4.0000004768371582,
+85,
+358]
+},"PFB_INS_Savannah_Tree_Tall_Purple 8":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-5735.70361328125,
+206.90626525878906,
+-1362.017578125]
+,"R":[
+355,
+74,
+-2.1425876184366643E-07]
+},"PFB_INS_Savannah_Tree_Tall 9":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":10,"Static":true,"Visible":true,"L":[
+-5727.208984375,
+211.80622863769531,
+-1230.42041015625]
+,"R":[
+358,
+182,
+359]
+},"PFB_INS_Savannah_Tree_Tall 10":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":10,"Static":true,"Visible":true,"L":[
+-6199.009765625,
+192.25625610351563,
+-1755.7996826171875]
+,"R":[
+357,
+344,
+1.0000001192092896]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 11":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-6021.72265625,
+192.75625610351563,
+-750.084228515625]
+,"R":[
+2.0000002384185791,
+283,
+4]
+},"PFB_INS_Savannah_Tree_Tall_Purple 12":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6276.77978515625,
+209.60626220703125,
+-918.62786865234375]
+,"R":[
+358,
+168,
+357]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 13":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-5917.4345703125,
+207.65628051757813,
+-975.0257568359375]
+,"R":[
+358,
+181,
+1]
+},"PFB_INS_Savannah_Tree_Short_Purple 14":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6047.91552734375,
+219.20626831054688,
+-1031.984375]
+,"R":[
+355,
+207,
+359]
+},"PFB_INS_Savannah_Tree_Short_Yellow 15":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-5986.3603515625,
+215.35624694824219,
+-1206.609130859375]
+,"R":[
+3,
+94.999992370605469,
+0]
+},"PFB_INS_Savannah_Tree_Short_Yellow 16":{"Name":"PFB_INS_Savannah_Tree_Short_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Short_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-5774.119140625,
+200.05625915527344,
+-1430.108154296875]
+,"R":[
+3,
+7.9999990463256836,
+1]
+},"PFB_INS_Savannah_Tree_Short_Purple 17":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6129.69775390625,
+211.90626525878906,
+-1610.451171875]
+,"R":[
+356,
+224,
+1.0698230568095823E-07]
+},"PFB_INS_Savannah_Tree_Tall_Brown 18":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":10,"Static":true,"Visible":true,"L":[
+-6444.8671875,
+205.80625915527344,
+-1633.0760498046875]
+,"R":[
+3.0000004768371582,
+165,
+355]
+},"PFB_INS_Savannah_Tree_Tall_Purple 19":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6457.96533203125,
+198.706298828125,
+-1216.6055908203125]
+,"R":[
+5.0000004768371582,
+315,
+355]
+},"PFB_Cliff_Top_Mud_Trees 20":{"Name":"PFB_Cliff_Top_Mud_Trees","DisplayName":"PFB_Cliff_Top_Mud_Trees","S":10,"Static":true,"Visible":true,"L":[
+-5809.62353515625,
+138.45626831054688,
+-1729.06396484375]
+,"R":[
+358,
+207,
+1.9999995231628418]
+},"PFB_Cliff_Top_Mud_Trees 21":{"Name":"PFB_Cliff_Top_Mud_Trees","DisplayName":"PFB_Cliff_Top_Mud_Trees","S":10,"Static":true,"Visible":true,"L":[
+-5819.65625,
+200.00628662109375,
+-1069.78466796875]
+,"R":[
+1.0000001192092896,
+226.99998474121094,
+1.9999997615814209]
+},"PFB_Cliff_Top_Mud_Trees 22":{"Name":"PFB_Cliff_Top_Mud_Trees","DisplayName":"PFB_Cliff_Top_Mud_Trees","S":10,"Static":true,"Visible":true,"L":[
+-5801.4873046875,
+211.90629577636719,
+-1045.0550537109375]
+,"R":[
+0,
+209,
+4]
+},"PFB_INS_Savannah_Tree_Short_Purple 23":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6668.083984375,
+208.95631408691406,
+-1368.386962890625]
+,"R":[
+356,
+119,
+356]
+},"PFB_INS_Savannah_Tree_Tall 24":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":10,"Static":true,"Visible":true,"L":[
+-6567.4619140625,
+217.85630798339844,
+-1498.4923095703125]
+,"R":[
+0.9999997615814209,
+246,
+356]
+},"PFB_INS_Savannah_Tree_Tall_Brown 25":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":10,"Static":true,"Visible":true,"L":[
+-5451.48095703125,
+198.85633850097656,
+-1598.296875]
+,"R":[
+-6.6701066891994287E-09,
+3.0000002384185791,
+356]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 26":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-5632.39111328125,
+214.75634765625,
+-1284.3564453125]
+,"R":[
+359,
+226.99998474121094,
+1]
+},"PFB_INS_Savannah_Tree_Tall_Purple 27":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6225.9267578125,
+228.25634765625,
+-730.3038330078125]
+,"R":[
+358,
+28.999992370605469,
+359]
+},"PFB_INS_Savannah_Tree_Tall_Brown 28":{"Name":"PFB_INS_Savannah_Tree_Tall_Brown","DisplayName":"PFB_INS_Savannah_Tree_Tall_Brown","S":10,"Static":true,"Visible":true,"L":[
+-6762.02734375,
+220.50634765625,
+-1039.054443359375]
+,"R":[
+0,
+249.00001525878906,
+3]
+},"PFB_INS_Savannah_Tree_Tall 29":{"Name":"PFB_INS_Savannah_Tree_Tall","DisplayName":"PFB_INS_Savannah_Tree_Tall","S":10,"Static":true,"Visible":true,"L":[
+-6571.32666015625,
+213.70634460449219,
+-1746.1466064453125]
+,"R":[
+2.0000002384185791,
+15.000014305114746,
+2]
+},"PFB_INS_Savannah_Tree_Tall_Purple 30":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6287.05322265625,
+201.05636596679688,
+-1986.64208984375]
+,"R":[
+358,
+116,
+5.0000004768371582]
+},"PFB_INS_Savannah_Tree_Tall_Yellow 31":{"Name":"PFB_INS_Savannah_Tree_Tall_Yellow","DisplayName":"PFB_INS_Savannah_Tree_Tall_Yellow","S":10,"Static":true,"Visible":true,"L":[
+-5421.44677734375,
+216.80638122558594,
+-1063.2955322265625]
+,"R":[
+359,
+103.00001525878906,
+3.9999995231628418]
+},"PFB_INS_Savannah_Tree_Tall_Purple 32":{"Name":"PFB_INS_Savannah_Tree_Tall_Purple","DisplayName":"PFB_INS_Savannah_Tree_Tall_Purple","S":10,"Static":true,"Visible":true,"L":[
+-5571.73974609375,
+201.75636291503906,
+-798.5955810546875]
+,"R":[
+0,
+88.999992370605469,
+0]
+},"PFB_Cliff_Top_Mud_Trees 33":{"Name":"PFB_Cliff_Top_Mud_Trees","DisplayName":"PFB_Cliff_Top_Mud_Trees","S":10,"Static":true,"Visible":true,"L":[
+-6419.3896484375,
+226.10638427734375,
+-680.7340087890625]
+,"R":[
+0,
+80,
+5]
+},"PFB_Cliff_Top_Mud_Trees 34":{"Name":"PFB_Cliff_Top_Mud_Trees","DisplayName":"PFB_Cliff_Top_Mud_Trees","S":10,"Static":true,"Visible":true,"L":[
+-6239.1826171875,
+236.85638427734375,
+-569.4700927734375]
+,"R":[
+356,
+92.000015258789063,
+356]
+},"PFB_INS_Savannah_Tree_Short_Purple 35":{"Name":"PFB_INS_Savannah_Tree_Short_Purple","DisplayName":"PFB_INS_Savannah_Tree_Short_Purple","S":10,"Static":true,"Visible":true,"L":[
+-6579.2177734375,
+220.50180053710938,
+-1285.08837890625]
+,"R":[
+3,
+122.00000762939453,
+357]
+},"PFB_INS_Savannah_Tree_Short_brown 36":{"Name":"PFB_INS_Savannah_Tree_Short_brown","DisplayName":"PFB_INS_Savannah_Tree_Short_brown","S":10,"Static":true,"Visible":true,"L":[
+-6656.15771484375,
+221.601806640625,
+-1134.1466064453125]
+,"R":[
+0,
+160,
+0]
+},"PFB_Bushy 37":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6409.42138671875,
+220.51710510253906,
+-1288.8153076171875]
+,"R":[
+357,
+129.99998474121094,
+357]
+},"PFB_Bushy 38":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6323.45703125,
+220.51710510253906,
+-1169.229736328125]
+,"R":[
+355,
+260,
+358]
+},"PFB_Bushy 39":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6245.61181640625,
+224.26710510253906,
+-967.8050537109375]
+,"R":[
+4,
+137,
+355]
+},"PFB_Bushy 40":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6235.53076171875,
+226.51710510253906,
+-958.097412109375]
+,"R":[
+3,
+309,
+0]
+},"PFB_Bushy 41":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6253.4931640625,
+226.51710510253906,
+-951.55645751953125]
+,"R":[
+358,
+156,
+1.9999997615814209]
+},"PFB_Bushy 42":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6631.65576171875,
+219.56710815429688,
+-1103.0679931640625]
+,"R":[
+359,
+18.999992370605469,
+2.0000002384185791]
+},"PFB_Bushy 43":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6644.61865234375,
+214.16709899902344,
+-1133.691162109375]
+,"R":[
+357,
+216,
+356]
+},"PFB_Bushy 44":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6624.283203125,
+218.91709899902344,
+-1129.3480224609375]
+,"R":[
+359,
+126.00001525878906,
+359]
+},"PFB_INS_Savannah_Bush_Small 45":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6120.513671875,
+212.21710205078125,
+-1598.192626953125]
+,"R":[
+358,
+106,
+0]
+},"PFB_INS_Savannah_Bush_Small 46":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6084.0537109375,
+217.21710205078125,
+-1430.89697265625]
+,"R":[
+4.0000004768371582,
+223,
+3.9999995231628418]
+},"PFB_INS_Savannah_Bush_Small 47":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6040.73291015625,
+221.66709899902344,
+-1171.6488037109375]
+,"R":[
+0,
+240,
+357]
+},"PFB_INS_Savannah_Bush_Small 48":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6057.82470703125,
+222.86711120605469,
+-1159.109130859375]
+,"R":[
+4.0000004768371582,
+214,
+4]
+},"PFB_INS_Savannah_Bush_Small 49":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6358.23486328125,
+222.1671142578125,
+-1218.8460693359375]
+,"R":[
+355,
+201,
+3.9999990463256836]
+},"PFB_INS_Savannah_Bush_Small 50":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6197.189453125,
+214.96711730957031,
+-1741.980224609375]
+,"R":[
+355,
+267,
+355]
+},"PFB_INS_Savannah_Bush_Small 51":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5530.953125,
+217.11712646484375,
+-1360.244873046875]
+,"R":[
+0,
+17.999998092651367,
+3]
+},"PFB_INS_Savannah_Bush_Small 52":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5523.39111328125,
+217.11712646484375,
+-1350.1683349609375]
+,"R":[
+358,
+189,
+358]
+},"PFB_INS_Savannah_Bush_Small 53":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6396.1337890625,
+225.86712646484375,
+-953.3814697265625]
+,"R":[
+3,
+1.9999997615814209,
+4.0000004768371582]
+},"PFB_INS_Savannah_Bush_Small 54":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6101.24365234375,
+229.06712341308594,
+-752.3275146484375]
+,"R":[
+2.0000002384185791,
+125,
+1.0000001192092896]
+},"PFB_INS_Savannah_Bush_Small 55":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6104.8017578125,
+229.06712341308594,
+-760.4803466796875]
+,"R":[
+357,
+57.000003814697266,
+3]
+},"PFB_INS_Savannah_Bush_Small 56":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6036.99462890625,
+228.01712036132813,
+-762.93212890625]
+,"R":[
+357,
+243,
+5]
+},"PFB_INS_Savannah_Bush_Small 57":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6459.09716796875,
+213.56712341308594,
+-1624.41162109375]
+,"R":[
+358,
+179,
+0]
+},"PFB_INS_Savannah_Bush_Small 58":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6455.68505859375,
+214.31712341308594,
+-1636.1290283203125]
+,"R":[
+358,
+45,
+356]
+},"PFB_INS_Savannah_Bush_Small 59":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6451.546875,
+217.06712341308594,
+-1628.5933837890625]
+,"R":[
+356,
+174,
+1.0000001192092896]
+},"PFB_INS_Savannah_Bush_Small 60":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6049.765625,
+225.86712646484375,
+-984.2352294921875]
+,"R":[
+355,
+6.0000004768371582,
+1.0000001192092896]
+},"PFB_INS_Savannah_Bush_Small 61":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6043.48828125,
+225.86712646484375,
+-993.9764404296875]
+,"R":[
+3,
+7.000004768371582,
+357]
+},"PFB_INS_Savannah_Bush_Small 62":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6572.44091796875,
+218.51712036132813,
+-1489.2628173828125]
+,"R":[
+5,
+129,
+355]
+},"PFB_INS_Savannah_Bush_Small 63":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6389.64306640625,
+288.76715087890625,
+-850.528076171875]
+,"R":[
+4.0000009536743164,
+347,
+356]
+},"PFB_INS_Savannah_Bush_Small 64":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5883.8095703125,
+229.7171630859375,
+-582.485107421875]
+,"R":[
+3.0000002384185791,
+76,
+4.0000004768371582]
+},"PFB_INS_Savannah_Bush_Small 65":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5881.919921875,
+229.7171630859375,
+-571.71282958984375]
+,"R":[
+3.0000002384185791,
+180,
+357]
+},"PFB_INS_Savannah_Bush_Small 66":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5875.88037109375,
+230.4671630859375,
+-577.30047607421875]
+,"R":[
+356,
+78.000007629394531,
+4]
+},"PFB_INS_Savannah_Bush_Small 67":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6393.4736328125,
+224.7171630859375,
+-1004.903564453125]
+,"R":[
+2.0000004768371582,
+92.000015258789063,
+3.9999995231628418]
+},"PFB_INS_Savannah_Bush_Small 68":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6387.39453125,
+224.7171630859375,
+-1004.8997802734375]
+,"R":[
+0,
+199,
+356]
+},"PFB_INS_Savannah_Bush_Small 69":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6380.28076171875,
+224.7171630859375,
+-1011.492431640625]
+,"R":[
+3,
+76.999984741210938,
+355]
+},"PFB_INS_Savannah_Bush_Small 70":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6386.62158203125,
+224.7171630859375,
+-1015.33935546875]
+,"R":[
+2,
+222,
+2]
+},"PFB_INS_Savannah_Bush_Small 71":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5881.51904296875,
+217.36717224121094,
+-1557.090087890625]
+,"R":[
+357,
+27.999996185302734,
+0.99999988079071045]
+},"PFB_INS_Savannah_Bush_Small 72":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5919.7958984375,
+226.61717224121094,
+-821.9112548828125]
+,"R":[
+355,
+233,
+4]
+},"PFB_INS_Savannah_Bush_Small 73":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-5914.8134765625,
+226.61717224121094,
+-815.99798583984375]
+,"R":[
+2.0000002384185791,
+178,
+357]
+},"PFB_INS_Savannah_Bush_Small 74":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6480.82568359375,
+219.2171630859375,
+-1423.1962890625]
+,"R":[
+358,
+97,
+1.0000001192092896]
+},"PFB_INS_Savannah_Bush_Small 75":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6481.8671875,
+219.2171630859375,
+-1417.1820068359375]
+,"R":[
+2,
+344,
+-2.6696689303662424E-08]
+},"PFB_INS_Savannah_Bush_Small 76":{"Name":"PFB_INS_Savannah_Bush_Small","DisplayName":"PFB_INS_Savannah_Bush_Small","S":5,"Static":true,"Visible":true,"L":[
+-6472.326171875,
+219.4671630859375,
+-1419.263427734375]
+,"R":[
+3.0000004768371582,
+180,
+5.0000004768371582]
+},"PFB_SimpleStoneHighSeas 77":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6350.6611328125,
+217.76716613769531,
+-1460.1396484375]
+,"R":[
+357,
+125,
+359]
+},"PFB_SimpleStoneHighSeas 78":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6442.24853515625,
+218.51716613769531,
+-1312.8990478515625]
+,"R":[
+1.0000002384185791,
+48.000003814697266,
+357]
+},"PFB_SimpleStoneHighSeas 79":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6448.03662109375,
+218.51716613769531,
+-1305.0067138671875]
+,"R":[
+2.0000002384185791,
+307,
+358]
+},"PFB_SimpleStoneHighSeas 80":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6506.060546875,
+223.06716918945313,
+-1041.7080078125]
+,"R":[
+0,
+260,
+1]
+},"PFB_SimpleStoneHighSeas 81":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6505.59130859375,
+225.31716918945313,
+-1039.5213623046875]
+,"R":[
+358,
+203,
+0]
+},"PFB_SimpleStoneHighSeas 82":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6516.4609375,
+223.06716918945313,
+-1042.6427001953125]
+,"R":[
+356,
+102.00000762939453,
+0.9999992847442627]
+},"PFB_SimpleStoneHighSeas 83":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5890.7529296875,
+220.66716003417969,
+-1287.4171142578125]
+,"R":[
+356,
+93.000015258789063,
+0]
+},"PFB_SimpleStoneHighSeas 84":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5879.150390625,
+220.66716003417969,
+-1290.80517578125]
+,"R":[
+4.0000004768371582,
+42,
+3.0000004768371582]
+},"PFB_SimpleStoneHighSeas 85":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5520.11572265625,
+223.66716003417969,
+-931.81396484375]
+,"R":[
+356,
+217,
+357]
+},"PFB_SimpleStoneHighSeas 86":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5523.0703125,
+223.66716003417969,
+-922.5673828125]
+,"R":[
+2.0000002384185791,
+166,
+1]
+},"PFB_SimpleStoneHighSeas 87":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5512.33642578125,
+223.66716003417969,
+-925.2755126953125]
+,"R":[
+5.0000009536743164,
+165,
+355]
+},"PFB_SimpleStoneHighSeas 88":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5998.4609375,
+228.4671630859375,
+-590.76824951171875]
+,"R":[
+358,
+336,
+356]
+},"PFB_SimpleStoneHighSeas 89":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6615.0859375,
+226.4671630859375,
+-897.3271484375]
+,"R":[
+2,
+296,
+355]
+},"PFB_SimpleStoneHighSeas 90":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6621.73193359375,
+225.7171630859375,
+-889.2764892578125]
+,"R":[
+355,
+98,
+3.9999995231628418]
+},"PFB_SimpleStoneHighSeas 91":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6782.625,
+221.2171630859375,
+-1324.235595703125]
+,"R":[
+3.9999995231628418,
+109.99999237060547,
+0]
+},"PFB_SimpleStoneHighSeas 92":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6152.20947265625,
+214.2171630859375,
+-1774.3641357421875]
+,"R":[
+3.0000002384185791,
+144,
+355]
+},"PFB_SimpleStoneHighSeas 93":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6157.30322265625,
+214.2171630859375,
+-1763.5928955078125]
+,"R":[
+356,
+340,
+355]
+},"PFB_SimpleStoneHighSeas 94":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6145.71533203125,
+214.2171630859375,
+-1759.5963134765625]
+,"R":[
+356,
+20.999998092651367,
+355]
+},"PFB_SimpleStoneHighSeas 95":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6149.763671875,
+218.36717224121094,
+-1765.4276123046875]
+,"R":[
+5.0000009536743164,
+107,
+358]
+},"PFB_SimpleStoneHighSeas 96":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5434.49267578125,
+221.16717529296875,
+-1200.670654296875]
+,"R":[
+356,
+343,
+359]
+},"PFB_SimpleStoneHighSeas 97":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5431.31494140625,
+221.16717529296875,
+-1206.117919921875]
+,"R":[
+357,
+170,
+5]
+},"PFB_SimpleStoneHighSeas 98":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5437.25927734375,
+221.16717529296875,
+-1207.4412841796875]
+,"R":[
+2.0000004768371582,
+45.000003814697266,
+5.3393378607324848E-08]
+},"PFB_SimpleStoneHighSeas 99":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5676.2333984375,
+215.56716918945313,
+-1627.2708740234375]
+,"R":[
+1.0000002384185791,
+304,
+5.0000004768371582]
+},"PFB_SimpleStoneHighSeas 100":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5874.41064453125,
+230.26718139648438,
+-569.5950927734375]
+,"R":[
+3.0000002384185791,
+88,
+0]
+},"PFB_SimpleStoneHighSeas 101":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-5870.98876953125,
+230.26718139648438,
+-580.88385009765625]
+,"R":[
+357,
+81,
+355]
+},"PFB_SimpleStoneHighSeas 102":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6029.54296875,
+225.6529541015625,
+-913.71356201171875]
+,"R":[
+-1.0672170702719086E-07,
+149,
+5.0000004768371582]
+},"PFB_SimpleStoneHighSeas 103":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6023.6611328125,
+225.6529541015625,
+-916.80462646484375]
+,"R":[
+359,
+131,
+358]
+},"PFB_SimpleStoneHighSeas 104":{"Name":"PFB_SimpleStoneHighSeas","DisplayName":"PFB_SimpleStoneHighSeas","S":5,"Static":true,"Visible":true,"L":[
+-6252.17919921875,
+216.80293273925781,
+-1580.9967041015625]
+,"R":[
+356,
+22.000001907348633,
+0.99999988079071045]
+},"PFB_StoneCliff_01 105":{"Name":"PFB_StoneCliff_01","DisplayName":"PFB_StoneCliff_01","S":5,"Static":true,"Visible":true,"L":[
+-6179.517578125,
+227.35296630859375,
+-778.3740234375]
+,"R":[
+345.114013671875,
+208.63967895507813,
+20.125202178955078]
+},"PFB_StoneCliff_01 106":{"Name":"PFB_StoneCliff_01","DisplayName":"PFB_StoneCliff_01","S":5,"Static":true,"Visible":true,"L":[
+-6119.517578125,
+175.35296630859375,
+-800.3740234375]
+,"R":[
+355.4912109375,
+210.71548461914063,
+333.5943603515625]
+},"PFB_Chirpo_Blue 107":{"Name":"PFB_Chirpo_Blue","DisplayName":"PFB_Chirpo_Blue","S":5,"Static":true,"Visible":true,"L":[
+-6139.3173828125,
+349.02236938476563,
+-796.01361083984375]
+,"R":[
+5.4428772926330566,
+183.23283386230469,
+14.410982131958008]
+},"PFB_Cactus_Mushroom_Tree 108":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6093.13623046875,
+147.02491760253906,
+-1611.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Cactus_Mushroom_Tree 109":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6132.13623046875,
+147.02491760253906,
+-1604.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Cactus_Mushroom_Tree 110":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6108.13623046875,
+147.02491760253906,
+-1418.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Cactus_Mushroom_Tree 111":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6040.13623046875,
+152.02491760253906,
+-1163.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Cactus_Mushroom_Tree 112":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6056.13623046875,
+151.00492858886719,
+-1179.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Cactus_Mushroom_Tree 113":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":5,"Static":true,"Visible":true,"L":[
+-6077.13623046875,
+151.00492858886719,
+-1158.237060546875]
+,"R":[
+5.0000004768371582,
+345,
+5]
+},"PFB_Bushy 114":{"Name":"PFB_Bushy","DisplayName":"PFB_Bushy","S":5,"Static":true,"Visible":true,"L":[
+-6236.42138671875,
+214.51710510253906,
+-1583.8153076171875]
+,"R":[
+357,
+129.99998474121094,
+357]
+},"PFB_Sheep 115":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6334.93359375,
+217.74143981933594,
+-1582.964111328125]
+,"R":[
+355,
+68.000015258789063,
+1.0000003576278687]
+},"PFB_Sheep 116":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6075.28125,
+216.9344482421875,
+-1622.7705078125]
+,"R":[
+0,
+266,
+356]
+},"PFB_Sheep 117":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5583.92333984375,
+221.72969055175781,
+-1232.041015625]
+,"R":[
+0,
+220,
+358]
+},"PFB_Sheep 118":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5521.611328125,
+219.82551574707031,
+-1365.3546142578125]
+,"R":[
+359,
+165,
+5.0000004768371582]
+},"PFB_Sheep 119":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5514.3603515625,
+219.97377014160156,
+-1355.4884033203125]
+,"R":[
+355,
+143,
+359]
+},"PFB_Sheep 120":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5503.8515625,
+219.73312377929688,
+-1372.1087646484375]
+,"R":[
+4,
+57,
+355]
+},"PFB_Sheep 121":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5502.7333984375,
+220.47978210449219,
+-1317.54638671875]
+,"R":[
+5.0000004768371582,
+32.999996185302734,
+356]
+},"PFB_Sheep 122":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6205.91845703125,
+215.16691589355469,
+-1761.6375732421875]
+,"R":[
+3,
+229,
+4.0000004768371582]
+},"PFB_Sheep 123":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6309.287109375,
+214.72337341308594,
+-1802.5853271484375]
+,"R":[
+4.0000004768371582,
+28.999996185302734,
+356]
+},"PFB_Sheep 124":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6069.32861328125,
+212.81784057617188,
+-1922.3798828125]
+,"R":[
+0,
+216,
+358]
+},"PFB_Sheep 125":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6581.3623046875,
+219.34971618652344,
+-1483.6787109375]
+,"R":[
+355,
+210,
+0]
+},"PFB_Sheep 126":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6627.234375,
+223.80184936523438,
+-1159.0859375]
+,"R":[
+5.0000004768371582,
+352,
+357]
+},"PFB_Sheep 127":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6632.6201171875,
+223.85260009765625,
+-1159.66943359375]
+,"R":[
+359,
+267,
+2]
+},"PFB_Sheep 128":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6525.81689453125,
+226.37590026855469,
+-955.1756591796875]
+,"R":[
+0,
+107,
+0]
+},"PFB_Sheep 129":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6085.033203125,
+228.03742980957031,
+-807.09442138671875]
+,"R":[
+355,
+281,
+1.9999995231628418]
+},"PFB_Sheep 130":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6071.59521484375,
+228.63302612304688,
+-760.50994873046875]
+,"R":[
+359,
+78.000007629394531,
+1.0000001192092896]
+},"PFB_Sheep 131":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5911.76025390625,
+227.92581176757813,
+-804.10186767578125]
+,"R":[
+357,
+214,
+356]
+},"PFB_Sheep 132":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5854.22412109375,
+231.22639465332031,
+-556.719482421875]
+,"R":[
+358,
+313,
+356]
+},"PFB_Sheep 133":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5635.82275390625,
+227.85139465332031,
+-785.7987060546875]
+,"R":[
+355,
+165,
+2]
+},"PFB_Sheep 134":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-5600.9208984375,
+227.63815307617188,
+-798.8199462890625]
+,"R":[
+1.0000001192092896,
+113,
+359]
+},"PFB_Sheep 135":{"Name":"PFB_Sheep","DisplayName":"PFB_Sheep","S":1,"Static":true,"Visible":true,"L":[
+-6106.06201171875,
+219.68460083007813,
+-1422.824951171875]
+,"R":[
+355,
+-1.0043378097179811E-05,
+5]
+},"PFB_TropicalFlower_1 136":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6278.4375,
+220.81156921386719,
+-1325.6280517578125]
+,"R":[
+359,
+143,
+356]
+},"PFB_TropicalFlower_1 137":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6053.34765625,
+217.01156616210938,
+-1542.8939208984375]
+,"R":[
+2,
+97,
+0]
+},"PFB_TropicalFlower_1 138":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5852.32373046875,
+220.26158142089844,
+-1292.711669921875]
+,"R":[
+359,
+126.00001525878906,
+3]
+},"PFB_TropicalFlower_1 139":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6227.576171875,
+226.26158142089844,
+-904.86212158203125]
+,"R":[
+5.0000014305114746,
+20.000003814697266,
+359]
+},"PFB_TropicalFlower_1 140":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6238.1708984375,
+226.26158142089844,
+-908.66845703125]
+,"R":[
+5.0000004768371582,
+151,
+357]
+},"PFB_TropicalFlower_1 141":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6018.6728515625,
+226.04949951171875,
+-901.97259521484375]
+,"R":[
+355,
+252,
+3]
+},"PFB_TropicalFlower_1 142":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5998.9111328125,
+228.29949951171875,
+-735.5989990234375]
+,"R":[
+4.0000004768371582,
+16.000003814697266,
+5.0000004768371582]
+},"PFB_TropicalFlower_1 143":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6031.5859375,
+228.29949951171875,
+-752.0858154296875]
+,"R":[
+357,
+220,
+3.9999995231628418]
+},"PFB_TropicalFlower_1 144":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5974.62890625,
+231.44949340820313,
+-479.88067626953125]
+,"R":[
+1.9999997615814209,
+5.0000004768371582,
+359]
+},"PFB_TropicalFlower_1 145":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5586.61572265625,
+222.69949340820313,
+-1119.3880615234375]
+,"R":[
+2,
+257,
+0]
+},"PFB_TropicalFlower_1 146":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5658.57958984375,
+216.63099670410156,
+-1586.0277099609375]
+,"R":[
+359,
+132,
+355]
+},"PFB_TropicalFlower_1 147":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5755.47314453125,
+218.031005859375,
+-1446.5162353515625]
+,"R":[
+0,
+97,
+1.0000001192092896]
+},"PFB_TropicalFlower_1 148":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-5764.7421875,
+218.46681213378906,
+-1439.0855712890625]
+,"R":[
+355,
+333,
+0.99999988079071045]
+},"PFB_TropicalFlower_1 149":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6163.2431640625,
+217.06681823730469,
+-1565.1710205078125]
+,"R":[
+356,
+205,
+356]
+},"PFB_TropicalFlower_1 150":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6352.74853515625,
+218.86683654785156,
+-1442.766845703125]
+,"R":[
+3,
+51.000003814697266,
+0]
+},"PFB_TropicalFlower_1 151":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6354.44921875,
+218.86683654785156,
+-1441.301513671875]
+,"R":[
+356,
+129.99998474121094,
+1.0000001192092896]
+},"PFB_TropicalFlower_1 152":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6392.2490234375,
+221.61683654785156,
+-1257.6640625]
+,"R":[
+2.0000004768371582,
+43,
+4.9999995231628418]
+},"PFB_TropicalFlower_1 153":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6446.201171875,
+221.61683654785156,
+-1289.3927001953125]
+,"R":[
+4.9999990463256836,
+41.999996185302734,
+4.9999995231628418]
+},"PFB_TropicalFlower_1 154":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6454.0361328125,
+221.61683654785156,
+-1285.08447265625]
+,"R":[
+356,
+203,
+3]
+},"PFB_TropicalFlower_1 155":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6445.92431640625,
+221.61683654785156,
+-1273.6473388671875]
+,"R":[
+3.0000004768371582,
+345,
+355]
+},"PFB_TropicalFlower_1 156":{"Name":"PFB_TropicalFlower_1","DisplayName":"PFB_TropicalFlower_1","S":1,"Static":true,"Visible":true,"L":[
+-6438.3779296875,
+225.61683654785156,
+-978.8570556640625]
+,"R":[
+355,
+105,
+0]
+},"PFB_TropicalFlower_2 157":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6566.2333984375,
+224.30421447753906,
+-1106.4312744140625]
+,"R":[
+3.9999990463256836,
+178,
+355]
+},"PFB_TropicalFlower_2 158":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6239.8095703125,
+222.91993713378906,
+-1181.3438720703125]
+,"R":[
+358,
+295,
+1.9999997615814209]
+},"PFB_TropicalFlower_2 159":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6012.11474609375,
+226.93525695800781,
+-866.5853271484375]
+,"R":[
+3.0000002384185791,
+284,
+359]
+},"PFB_TropicalFlower_2 160":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6013.40576171875,
+226.962890625,
+-868.12945556640625]
+,"R":[
+357,
+175,
+355]
+},"PFB_TropicalFlower_2 161":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6012.470703125,
+230.72195434570313,
+-591.61871337890625]
+,"R":[
+356,
+210,
+1.9999997615814209]
+},"PFB_TropicalFlower_2 162":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5700.68896484375,
+226.22047424316406,
+-895.57122802734375]
+,"R":[
+355,
+7.9999990463256836,
+359]
+},"PFB_TropicalFlower_2 163":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5517.8388671875,
+222.21987915039063,
+-1170.9644775390625]
+,"R":[
+1.0000001192092896,
+278,
+356]
+},"PFB_TropicalFlower_2 164":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5516.5859375,
+222.31996154785156,
+-1169.8106689453125]
+,"R":[
+359,
+337,
+355]
+},"PFB_TropicalFlower_2 165":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5649.27490234375,
+218.51715087890625,
+-1451.0609130859375]
+,"R":[
+1.0000001192092896,
+356,
+3.9999995231628418]
+},"PFB_TropicalFlower_2 166":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5962.734375,
+218.01515197753906,
+-1515.9239501953125]
+,"R":[
+2,
+66,
+355]
+},"PFB_TropicalFlower_2 167":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6441.6015625,
+220.80548095703125,
+-1352.1195068359375]
+,"R":[
+355,
+259,
+359]
+},"PFB_TropicalFlower_2 168":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6554.71630859375,
+225.49382019042969,
+-1012.0040283203125]
+,"R":[
+4.0000004768371582,
+155,
+359]
+},"PFB_TropicalFlower_2 169":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6307.00244140625,
+226.09945678710938,
+-953.407958984375]
+,"R":[
+358,
+248,
+3.0000004768371582]
+},"PFB_TropicalFlower_2 170":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6242.01416015625,
+226.9573974609375,
+-883.3216552734375]
+,"R":[
+356,
+192,
+3.0000002384185791]
+},"PFB_TropicalFlower_2 171":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6070.46875,
+227.02317810058594,
+-867.19927978515625]
+,"R":[
+355,
+147.00001525878906,
+358]
+},"PFB_TropicalFlower_2 172":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5849.416015625,
+230.26394653320313,
+-613.1046142578125]
+,"R":[
+358,
+262,
+359]
+},"PFB_TropicalFlower_2 173":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-5872.67041015625,
+228.91766357421875,
+-712.91796875]
+,"R":[
+3.0000002384185791,
+260,
+0.99999988079071045]
+},"PFB_TropicalFlower_3 174":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5671.43115234375,
+226.831787109375,
+-850.52801513671875]
+,"R":[
+356,
+317,
+1.0698230568095823E-07]
+},"PFB_TropicalFlower_3 175":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5389.23046875,
+223.93147277832031,
+-1039.9586181640625]
+,"R":[
+3.0000002384185791,
+210,
+1.9999997615814209]
+},"PFB_TropicalFlower_3 176":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5741.5888671875,
+219.05979919433594,
+-1425.7686767578125]
+,"R":[
+5.0000004768371582,
+230,
+355]
+},"PFB_TropicalFlower_3 177":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5931.205078125,
+216.97111511230469,
+-1594.310791015625]
+,"R":[
+358,
+86,
+357]
+},"PFB_TropicalFlower_3 178":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5930.83203125,
+216.89720153808594,
+-1600.7808837890625]
+,"R":[
+4.0000004768371582,
+232,
+357]
+},"PFB_TropicalFlower_3 179":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6135.08984375,
+216.26011657714844,
+-1660.69970703125]
+,"R":[
+355,
+75,
+2]
+},"PFB_TropicalFlower_3 180":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6572.41015625,
+218.40361022949219,
+-1535.3583984375]
+,"R":[
+356,
+236,
+0]
+},"PFB_TropicalFlower_3 181":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6671.64404296875,
+226.30230712890625,
+-967.0794677734375]
+,"R":[
+356,
+192,
+359]
+},"PFB_TropicalFlower_2 182":{"Name":"PFB_TropicalFlower_2","DisplayName":"PFB_TropicalFlower_2","S":0.02,"Static":true,"Visible":true,"L":[
+-6630.46533203125,
+228.71029663085938,
+-787.32818603515625]
+,"R":[
+3,
+352,
+358]
+},"PFB_TropicalFlower_3 183":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6322.126953125,
+226.38319396972656,
+-932.6627197265625]
+,"R":[
+356,
+349,
+4]
+},"PFB_TropicalFlower_3 184":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6055.52734375,
+227.41119384765625,
+-836.8636474609375]
+,"R":[
+3.0000004768371582,
+116.00001525878906,
+355]
+},"PFB_TropicalFlower_3 185":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-5727.06787109375,
+229.78074645996094,
+-632.631103515625]
+,"R":[
+355,
+270,
+2]
+},"PFB_TropicalFlower_4 186":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-5868.09814453125,
+229.57412719726563,
+-662.28021240234375]
+,"R":[
+3.0000002384185791,
+79.000007629394531,
+0.99999988079071045]
+},"PFB_TropicalFlower_4 187":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-6172.28759765625,
+227.37388610839844,
+-848.934326171875]
+,"R":[
+355,
+169,
+357]
+},"PFB_TropicalFlower_4 188":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-6181.66064453125,
+221.78471374511719,
+-1255.613037109375]
+,"R":[
+5.0000004768371582,
+41.000007629394531,
+2.0000002384185791]
+},"PFB_TropicalFlower_4 189":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-5653.267578125,
+218.83052062988281,
+-1436.2281494140625]
+,"R":[
+355,
+305,
+3]
+},"PFB_TropicalFlower_4 190":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-6078.09375,
+227.68846130371094,
+-819.98211669921875]
+,"R":[
+5.0000004768371582,
+118.00001525878906,
+355]
+},"PFB_TropicalFlower_4 191":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-5977.22021484375,
+231.25485229492188,
+-549.1971435546875]
+,"R":[
+356,
+299,
+355]
+},"PFB_TropicalFlower_4 192":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-6218.1650390625,
+219.84933471679688,
+-1399.3968505859375]
+,"R":[
+358,
+147,
+3]
+},"PFB_TropicalFlower_4 193":{"Name":"PFB_TropicalFlower_4","DisplayName":"PFB_TropicalFlower_4","S":0.02,"Static":true,"Visible":true,"L":[
+-6537.99755859375,
+214.86758422851563,
+-1794.2523193359375]
+,"R":[
+4.0000004768371582,
+158,
+0.99999988079071045]
+},"PFB_TropicalFlower_3 194":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6687.2236328125,
+216.27288818359375,
+-1704.8974609375]
+,"R":[
+359,
+68.000015258789063,
+358]
+},"PFB_TropicalFlower_3 195":{"Name":"PFB_TropicalFlower_3","DisplayName":"PFB_TropicalFlower_3","S":0.02,"Static":true,"Visible":true,"L":[
+-6631.07421875,
+220.98185729980469,
+-1339.4224853515625]
+,"R":[
+1.0672170702719086E-07,
+146,
+356]
+}},"Authors":".480.2103.3113.1115.6105.7117.685.5106.6115.7107,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

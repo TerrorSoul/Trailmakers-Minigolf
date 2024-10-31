@@ -1,0 +1,210 @@
+{"Date":"10:22:2024","Time":"16:04:20","Map":"Test Zone","Spawns":{"PFB_IceCliffFlat_02 1":{"Name":"PFB_IceCliffFlat_02","DisplayName":"PFB_IceCliffFlat_02","S":1000,"Static":true,"Visible":true,"L":[
+-6209.1884765625,
+665,
+-1357.1964111328125]
+,"R":[
+1.0000002384185791,
+-8.3389023464164325E-10,
+359]
+},"PFB_Iceberg_01 2":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":1.5,"Static":true,"Visible":true,"L":[
+-6288.333984375,
+225.60679626464844,
+-1429.8021240234375]
+,"R":[
+1.0177775099486433E-13,
+344.99996948242188,
+180]
+},"PFB_Iceberg_01 3":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":1.5,"Static":true,"Visible":true,"L":[
+-6281.333984375,
+222.60679626464844,
+-1424.8021240234375]
+,"R":[
+349.3216552734375,
+345.2615966796875,
+198.29470825195313]
+},"PFB_IceHarbour_Base 4":{"Name":"PFB_IceHarbour_Base","DisplayName":"PFB_IceHarbour_Base","S":0.2,"Static":true,"Visible":true,"L":[
+-6006.47412109375,
+198.48654174804688,
+-1179.279296875]
+,"R":[
+0,
+255,
+0]
+},"PFB_IceHarbour_Base 5":{"Name":"PFB_IceHarbour_Base","DisplayName":"PFB_IceHarbour_Base","S":0.2,"Static":true,"Visible":true,"L":[
+-6016.47412109375,
+198.48654174804688,
+-1340.279296875]
+,"R":[
+0,
+225,
+0]
+},"PFB_IceHarbour_Base 6":{"Name":"PFB_IceHarbour_Base","DisplayName":"PFB_IceHarbour_Base","S":0.2,"Static":true,"Visible":true,"L":[
+-6362.47412109375,
+202.48654174804688,
+-1385.279296875]
+,"R":[
+0,
+29.999973297119141,
+0]
+},"PFB_IceHarbour_Base 7":{"Name":"PFB_IceHarbour_Base","DisplayName":"PFB_IceHarbour_Base","S":0.2,"Static":true,"Visible":true,"L":[
+-6289.47412109375,
+202.48654174804688,
+-1508.279296875]
+,"R":[
+0,
+89.999992370605469,
+0]
+},"PFB_CrashedMayorPlane 8":{"Name":"PFB_CrashedMayorPlane","DisplayName":"PFB_CrashedMayorPlane","S":0.01,"Static":true,"Visible":true,"L":[
+-6021.51806640625,
+220.53622436523438,
+-1344.9981689453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrashedMayorPlane 9":{"Name":"PFB_CrashedMayorPlane","DisplayName":"PFB_CrashedMayorPlane","S":0.01,"Static":true,"Visible":true,"L":[
+-6359.39111328125,
+221.53622436523438,
+-1378.9981689453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_ShipWreck 10":{"Name":"PFB_ShipWreck","DisplayName":"PFB_ShipWreck","S":1,"Static":true,"Visible":true,"L":[
+-6174.96533203125,
+208.66635131835938,
+-1160.4903564453125]
+,"R":[
+342,
+29.999998092651367,
+356]
+},"PFB_Iceberg_01 11":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6277.46875,
+110.4940185546875,
+-1263.5244140625]
+,"R":[
+0,
+285,
+342]
+},"PFB_Iceberg_01 12":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6237.46875,
+109.4940185546875,
+-1217.5244140625]
+,"R":[
+359.223876953125,
+284.9803466796875,
+344.89794921875]
+},"PFB_Iceberg_01 13":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6175.46875,
+108.4940185546875,
+-1242.5244140625]
+,"R":[
+359.7412109375,
+284.997802734375,
+342.96591186523438]
+},"PFB_Iceberg_01 14":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6175.46875,
+107.48401641845703,
+-1176.5244140625]
+,"R":[
+0.44824856519699097,
+285.00857543945313,
+344.19064331054688]
+},"PFB_Iceberg_01 15":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":5,"Static":true,"Visible":true,"L":[
+-6334.333984375,
+151.60679626464844,
+-1230.8021240234375]
+,"R":[
+323.48486328125,
+343.80596923828125,
+158.936767578125]
+},"PFB_Iceberg_01 16":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":5,"Static":true,"Visible":true,"L":[
+-6273.333984375,
+157.60679626464844,
+-1298.8021240234375]
+,"R":[
+38.076045989990234,
+307.156005859375,
+171.72958374023438]
+},"PFB_Iceberg_01 17":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":5,"Static":true,"Visible":true,"L":[
+-6246.333984375,
+147.55682373046875,
+-1297.8021240234375]
+,"R":[
+38.076045989990234,
+307.156005859375,
+171.72958374023438]
+},"PFB_Iceberg_01 18":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":3,"Static":true,"Visible":true,"L":[
+-6112.16943359375,
+199.03178405761719,
+-1428.5902099609375]
+,"R":[
+25.263202667236328,
+6.6754918098449707,
+289.04693603515625]
+},"PFB_Iceberg_01 19":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":3,"Static":true,"Visible":true,"L":[
+-6099.16943359375,
+199.03178405761719,
+-1466.5902099609375]
+,"R":[
+0.73268026113510132,
+337.90493774414063,
+149.46414184570313]
+},"PFB_Iceberg_01 20":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6089.46875,
+108.24396514892578,
+-1481.5244140625]
+,"R":[
+359.7412109375,
+284.997802734375,
+342.96591186523438]
+},"PFB_Iceberg_01 21":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":4,"Static":true,"Visible":true,"L":[
+-6111.2421875,
+153.23017883300781,
+-1245.3262939453125]
+,"R":[
+345,
+315,
+195]
+},"PFB_Iceberg_01 22":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":4,"Static":true,"Visible":true,"L":[
+-6090.2421875,
+158.1202392578125,
+-1283.3262939453125]
+,"R":[
+344.99996948242188,
+75,
+195]
+},"PFB_GiantSpaceCraftRuin 23":{"Name":"PFB_GiantSpaceCraftRuin","DisplayName":"PFB_GiantSpaceCraftRuin","S":1,"Static":true,"Visible":true,"L":[
+-5887.822265625,
+170.7882080078125,
+-1232.4630126953125]
+,"R":[
+315,
+60.000003814697266,
+207]
+},"PFB_Iceberg_01 24":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6303.46875,
+111.24396514892578,
+-1479.5244140625]
+,"R":[
+359.7412109375,
+284.997802734375,
+342.96591186523438]
+},"PFB_Iceberg_01 25":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6290.46875,
+111.92389678955078,
+-1447.5244140625]
+,"R":[
+358.7752685546875,
+255.00117492675781,
+342.70706176757813]
+},"PFB_Iceberg_01 26":{"Name":"PFB_Iceberg_01","DisplayName":"PFB_Iceberg_01","S":6,"Static":true,"Visible":true,"L":[
+-6183.46875,
+112.99391174316406,
+-1498.5244140625]
+,"R":[
+358.25848388671875,
+255.05120849609375,
+340.77432250976563]
+}},"Authors":".480.3102.4118.9123.1110.4118.380.3108.4113.9101,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

@@ -1,0 +1,578 @@
+{"Date":"10:22:2024","Time":"11:52:49","Map":"Test Zone","Spawns":{"PFB_CrystalPlanet_Rock_01 1":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":21821,"Static":true,"Visible":true,"L":[
+-5506.6904296875,
+-2152.989990234375,
+-1481.372802734375]
+,"R":[
+4.99999475479126,
+180,
+184]
+},"PFB_CrystalPlanet_Rock_01 2":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6332.2255859375,
+210.770751953125,
+-1445.4615478515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalPlanet_Rock_01 3":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6360.2255859375,
+210.770751953125,
+-1390.4615478515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalPlanet_Rock_01 4":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6371.2255859375,
+210.770751953125,
+-1312.4615478515625]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_CrystalPlanet_Rock_01 5":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6334.2255859375,
+210.770751953125,
+-1259.4615478515625]
+,"R":[
+0,
+75,
+0]
+},"PFB_CrystalPlanet_Rock_01 6":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6286.2255859375,
+210.770751953125,
+-1214.4615478515625]
+,"R":[
+0,
+75,
+0]
+},"PFB_CrystalPlanet_Rock_01 7":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6221.2255859375,
+210.770751953125,
+-1173.4615478515625]
+,"R":[
+0,
+105,
+0]
+},"PFB_CrystalPlanet_Rock_01 8":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6149.2255859375,
+210.770751953125,
+-1170.4615478515625]
+,"R":[
+0,
+135,
+0]
+},"PFB_CrystalPlanet_Rock_01 9":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6092.2255859375,
+210.770751953125,
+-1224.4615478515625]
+,"R":[
+0,
+180,
+0]
+},"PFB_CrystalPlanet_Rock_01 10":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6059.2255859375,
+210.770751953125,
+-1299.4615478515625]
+,"R":[
+0,
+195,
+0]
+},"PFB_CrystalPlanet_Rock_01 11":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6048.2255859375,
+210.770751953125,
+-1359.4615478515625]
+,"R":[
+0,
+195,
+0]
+},"PFB_CrystalPlanet_Rock_01 12":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6069.2255859375,
+210.770751953125,
+-1420.4615478515625]
+,"R":[
+0,
+240,
+0]
+},"PFB_CrystalPlanet_Rock_01 13":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6130.2255859375,
+210.770751953125,
+-1473.4615478515625]
+,"R":[
+0,
+270,
+0]
+},"PFB_CrystalPlanet_Rock_01 14":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6190.2255859375,
+210.770751953125,
+-1493.4615478515625]
+,"R":[
+0,
+285,
+0]
+},"PFB_CrystalPlanet_Rock_01 15":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6283.2255859375,
+210.770751953125,
+-1488.4615478515625]
+,"R":[
+0,
+300,
+0]
+},"PFB_CrystalPlanet_Rock_01 16":{"Name":"PFB_CrystalPlanet_Rock_01","DisplayName":"PFB_CrystalPlanet_Rock_01","S":8,"Static":true,"Visible":true,"L":[
+-6228.2255859375,
+210.770751953125,
+-1500.4615478515625]
+,"R":[
+0,
+300,
+0]
+},"PFB_CrystalPlanet_Rock_02 17":{"Name":"PFB_CrystalPlanet_Rock_02","DisplayName":"PFB_CrystalPlanet_Rock_02","S":30,"Static":true,"Visible":true,"L":[
+-6280.46337890625,
+108.770751953125,
+-1505.8753662109375]
+,"R":[
+354,
+0,
+0]
+},"PFB_CrystalPlanet_Rock_02 18":{"Name":"PFB_CrystalPlanet_Rock_02","DisplayName":"PFB_CrystalPlanet_Rock_02","S":30,"Static":true,"Visible":true,"L":[
+-6124.46337890625,
+108.770751953125,
+-1531.8753662109375]
+,"R":[
+359.0081787109375,
+270.3134765625,
+357.010986328125]
+},"PFB_CrystalPlanet_Rock_02 19":{"Name":"PFB_CrystalPlanet_Rock_02","DisplayName":"PFB_CrystalPlanet_Rock_02","S":30,"Static":true,"Visible":true,"L":[
+-6343.46337890625,
+108.770751953125,
+-1134.8753662109375]
+,"R":[
+356.99362182617188,
+270.10421752929688,
+1.0054885149002075]
+},"PFB_CrystalRock_8 20":{"Name":"PFB_CrystalRock_8","DisplayName":"PFB_CrystalRock_8","S":10,"Static":true,"Visible":true,"L":[
+-5991.48583984375,
+257.61355590820313,
+-1265.177978515625]
+,"R":[
+0,
+345,
+104.99999237060547]
+},"PFB_CrystalRock_8 21":{"Name":"PFB_CrystalRock_8","DisplayName":"PFB_CrystalRock_8","S":10,"Static":true,"Visible":true,"L":[
+-6132.48583984375,
+257.61355590820313,
+-1080.177978515625]
+,"R":[
+345.52249145507813,
+299.495849609375,
+108.96714019775391]
+},"PFB_CrystalRock_9 22":{"Name":"PFB_CrystalRock_9","DisplayName":"PFB_CrystalRock_9","S":20,"Static":true,"Visible":true,"L":[
+-6352.685546875,
+226.91357421875,
+-1303.59375]
+,"R":[
+30.000003814697266,
+9.8585280738916481E-07,
+105]
+},"PFB_CrystalRock_9 23":{"Name":"PFB_CrystalRock_9","DisplayName":"PFB_CrystalRock_9","S":20,"Static":true,"Visible":true,"L":[
+-6427.685546875,
+312.91357421875,
+-1306.59375]
+,"R":[
+26.705005645751953,
+315.79705810546875,
+75.6124496459961]
+},"PFB_CrystalRock_9 24":{"Name":"PFB_CrystalRock_9","DisplayName":"PFB_CrystalRock_9","S":20,"Static":true,"Visible":true,"L":[
+-6384.685546875,
+336.91357421875,
+-1073.59375]
+,"R":[
+39.383766174316406,
+50.370365142822266,
+216.4219970703125]
+},"PFB_CrystalRock_9 25":{"Name":"PFB_CrystalRock_9","DisplayName":"PFB_CrystalRock_9","S":25,"Static":true,"Visible":true,"L":[
+-5875.685546875,
+274.91357421875,
+-1387.59375]
+,"R":[
+34.804573059082031,
+94.1951675415039,
+242.3323974609375]
+},"PFB_GiantSpaceCraftRuin 26":{"Name":"PFB_GiantSpaceCraftRuin","DisplayName":"PFB_GiantSpaceCraftRuin","S":1,"Static":true,"Visible":true,"L":[
+-6096.67529296875,
+273.8065185546875,
+-1341.9337158203125]
+,"R":[
+330,
+0,
+90]
+},"PFB_SpacePipe_Cornor1 27":{"Name":"PFB_SpacePipe_Cornor1","DisplayName":"PFB_SpacePipe_Cornor1","S":1,"Static":true,"Visible":true,"L":[
+-6167.13134765625,
+220.50653076171875,
+-1422.189697265625]
+,"R":[
+0,
+45.000003814697266,
+0]
+},"PFB_SpacePipe_Short 28":{"Name":"PFB_SpacePipe_Short","DisplayName":"PFB_SpacePipe_Short","S":1,"Static":true,"Visible":true,"L":[
+-6305.62890625,
+217.95652770996094,
+-1313.7481689453125]
+,"R":[
+345,
+4.4194575821165927E-07,
+16]
+},"PFB_SpaceWreckage2 29":{"Name":"PFB_SpaceWreckage2","DisplayName":"PFB_SpaceWreckage2","S":2,"Static":true,"Visible":true,"L":[
+-6278.11572265625,
+227.95652770996094,
+-1389.7288818359375]
+,"R":[
+29.999998092651367,
+0,
+315]
+},"PFB_SpaceWreckage2 30":{"Name":"PFB_SpaceWreckage2","DisplayName":"PFB_SpaceWreckage2","S":2,"Static":true,"Visible":true,"L":[
+-6301.11572265625,
+222.95652770996094,
+-1304.7288818359375]
+,"R":[
+345.52249145507813,
+183.43495178222656,
+198.4349365234375]
+},"PFB_SpaceRing_01 31":{"Name":"PFB_SpaceRing_01","DisplayName":"PFB_SpaceRing_01","S":1,"Static":true,"Visible":true,"L":[
+-6130.86474609375,
+214.63864135742188,
+-1318.7169189453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_SpaceRing_03 32":{"Name":"PFB_SpaceRing_03","DisplayName":"PFB_SpaceRing_03","S":1,"Static":true,"Visible":true,"L":[
+-6123.97900390625,
+218.58863830566406,
+-1288.5206298828125]
+,"R":[
+15.000000953674316,
+0,
+29.999998092651367]
+},"PFB_CrystalClusterBlue 33":{"Name":"PFB_CrystalClusterBlue","DisplayName":"PFB_CrystalClusterBlue","S":1,"Static":true,"Visible":true,"L":[
+-6266.70703125,
+207.33860778808594,
+-1262.3231201171875]
+,"R":[
+345,
+2.209728506841202E-07,
+345]
+},"PFB_CrystalClusterPink 34":{"Name":"PFB_CrystalClusterPink","DisplayName":"PFB_CrystalClusterPink","S":1,"Static":true,"Visible":true,"L":[
+-6121.193359375,
+212.58860778808594,
+-1213.1031494140625]
+,"R":[
+330,
+-9.8585292107600253E-07,
+30.000003814697266]
+},"PFB_CrystalSmall_blue 35":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6266.42822265625,
+213.6885986328125,
+-1361.22607421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 36":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6271.58837890625,
+214.73860168457031,
+-1312.795166015625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 37":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6198.802734375,
+214.03860473632813,
+-1239.040771484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 38":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6205.65966796875,
+214.03860473632813,
+-1236.809326171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 39":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6196.51025390625,
+214.28860473632813,
+-1217.814208984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 40":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6123.56396484375,
+214.13859558105469,
+-1276.857177734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 41":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6153.90771484375,
+213.28858947753906,
+-1338.773681640625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 42":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6179.23876953125,
+214.33859252929688,
+-1366.336181640625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 43":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6177.29638671875,
+213.83859252929688,
+-1367.5491943359375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 44":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6180.05810546875,
+213.83859252929688,
+-1367.986083984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 45":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6210.048828125,
+214.88859558105469,
+-1308.2064208984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 46":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6182.509765625,
+214.13859558105469,
+-1268.8665771484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 47":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6206.2490234375,
+213.83859252929688,
+-1348.1907958984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 48":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6190.2158203125,
+213.83859252929688,
+-1408.0889892578125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 49":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6157.9775390625,
+214.38858032226563,
+-1216.347412109375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 50":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6222.8232421875,
+213.83857727050781,
+-1423.77587890625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalClusterBlue 51":{"Name":"PFB_CrystalClusterBlue","DisplayName":"PFB_CrystalClusterBlue","S":1,"Static":true,"Visible":true,"L":[
+-6197.27490234375,
+206.68858337402344,
+-1467.6658935546875]
+,"R":[
+45.000007629394531,
+0,
+345]
+},"PFB_SpaceRing_03 52":{"Name":"PFB_SpaceRing_03","DisplayName":"PFB_SpaceRing_03","S":2,"Static":true,"Visible":true,"L":[
+-6171.63818359375,
+219.046630859375,
+-1412.244873046875]
+,"R":[
+45.000003814697266,
+15.000000953674316,
+29.999998092651367]
+},"PFB_SpacePipe_Long 53":{"Name":"PFB_SpacePipe_Long","DisplayName":"PFB_SpacePipe_Long","S":1,"Static":true,"Visible":true,"L":[
+-6320.2490234375,
+311.16619873046875,
+-1358.7996826171875]
+,"R":[
+90,
+44.999996185302734,
+0]
+},"PFB_SpacePipe_Long 54":{"Name":"PFB_SpacePipe_Long","DisplayName":"PFB_SpacePipe_Long","S":1,"Static":true,"Visible":true,"L":[
+-6274.5517578125,
+311.16619873046875,
+-1313.1500244140625]
+,"R":[
+90,
+44.999996185302734,
+0]
+},"PFB_SpacePipe_Long 55":{"Name":"PFB_SpacePipe_Long","DisplayName":"PFB_SpacePipe_Long","S":1,"Static":true,"Visible":true,"L":[
+-6236.1904296875,
+311.16619873046875,
+-1263.2791748046875]
+,"R":[
+90,
+29.999998092651367,
+0]
+},"PFB_SpacePipe_Long 56":{"Name":"PFB_SpacePipe_Long","DisplayName":"PFB_SpacePipe_Long","S":1,"Static":true,"Visible":true,"L":[
+-6203.9560546875,
+311.16619873046875,
+-1207.4393310546875]
+,"R":[
+90,
+29.999998092651367,
+0]
+},"PFB_Chirpo_Stationary 57":{"Name":"PFB_Chirpo_Stationary","DisplayName":"PFB_Chirpo_Stationary","S":0.8,"Static":true,"Visible":true,"L":[
+-6170.59130859375,
+214.71279907226563,
+-1216.939453125]
+,"R":[
+358,
+300,
+2]
+},"PFB_CrystalRock_8 58":{"Name":"PFB_CrystalRock_8","DisplayName":"PFB_CrystalRock_8","S":16,"Static":true,"Visible":true,"L":[
+-6230.69970703125,
+489.17596435546875,
+-1367.5830078125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalClusterPink 59":{"Name":"PFB_CrystalClusterPink","DisplayName":"PFB_CrystalClusterPink","S":1,"Static":true,"Visible":true,"L":[
+-6256.73974609375,
+389.486083984375,
+-1427.5062255859375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalClusterBlue 60":{"Name":"PFB_CrystalClusterBlue","DisplayName":"PFB_CrystalClusterBlue","S":1,"Static":true,"Visible":true,"L":[
+-6151.41015625,
+383.53607177734375,
+-1315.0521240234375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalClusterPink 61":{"Name":"PFB_CrystalClusterPink","DisplayName":"PFB_CrystalClusterPink","S":1,"Static":true,"Visible":true,"L":[
+-6284.46435546875,
+429.18606567382813,
+-1322.137451171875]
+,"R":[
+330,
+0,
+195]
+},"PFB_CrystalSmall_blue 62":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6316.4140625,
+333.25241088867188,
+-1378.89111328125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 63":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6223.53515625,
+293.50241088867188,
+-1451.7806396484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 64":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6159.01318359375,
+271.25241088867188,
+-1204.024169921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 65":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6246.0166015625,
+255.00241088867188,
+-1239.408203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 66":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6141.607421875,
+265.952392578125,
+-1369.22314453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 67":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6146.3564453125,
+333.202392578125,
+-1235.9774169921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 68":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6296.03515625,
+254.85238647460938,
+-1394.6666259765625]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalClusterPink 69":{"Name":"PFB_CrystalClusterPink","DisplayName":"PFB_CrystalClusterPink","S":1,"Static":true,"Visible":true,"L":[
+-6127.4833984375,
+333.30239868164063,
+-1422.4296875]
+,"R":[
+15.000001907348633,
+2.209728506841202E-07,
+14.999999046325684]
+},"PFB_CrystalSmall_blue 70":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6234.44873046875,
+370.10238647460938,
+-1464.749755859375]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_blue 71":{"Name":"PFB_CrystalSmall_blue","DisplayName":"PFB_CrystalSmall_blue","S":1,"Static":true,"Visible":true,"L":[
+-6206.0986328125,
+386.65841674804688,
+-1331.2850341796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_CrystalSmall_pink 72":{"Name":"PFB_CrystalSmall_pink","DisplayName":"PFB_CrystalSmall_pink","S":1,"Static":true,"Visible":true,"L":[
+-6167.40625,
+398.95846557617188,
+-1392.90380859375]
+,"R":[
+0,
+0,
+0]
+}},"Authors":".185.0101.3113.2112.3108.4118.685.9102.1116.7107,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

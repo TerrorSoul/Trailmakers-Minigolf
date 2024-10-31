@@ -1,0 +1,826 @@
+{"Date":"10:26:2024","Time":"13:29:17","Map":"Test Zone","Spawns":{"PFB_FloatingIsland_02_fungus 1":{"Name":"PFB_FloatingIsland_02_fungus","DisplayName":"PFB_FloatingIsland_02_fungus","S":300,"Static":true,"Visible":true,"L":[
+-6176.65771484375,
+86.95257568359375,
+-1327.6558837890625]
+,"R":[
+358,
+0,
+0]
+},"PFB_Mushroom_Big_C 2":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6268.08740234375,
+205.45257568359375,
+-1235.4586181640625]
+,"R":[
+1.3340213378398857E-08,
+6,
+356]
+},"PFB_Mushroom_Big_C 3":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6157.08740234375,
+205.43258666992188,
+-1463.4586181640625]
+,"R":[
+358.75469970703125,
+275.86981201171875,
+7.9361572265625]
+},"PFB_Mushroom_Big_C 4":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6404.08740234375,
+199.39260864257813,
+-1304.4586181640625]
+,"R":[
+353.20053100585938,
+337.5050048828125,
+355.19400024414063]
+},"PFB_Mushroom_Big_B 5":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":1,"Static":true,"Visible":true,"L":[
+-6361.7509765625,
+188.95175170898438,
+-1398.7882080078125]
+,"R":[
+345,
+45,
+345]
+},"PFB_Mushroom_Big_B 6":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":1,"Static":true,"Visible":true,"L":[
+-6293.7509765625,
+188.95175170898438,
+-1449.7882080078125]
+,"R":[
+6.7398691177368164,
+43.453495025634766,
+5.8555707931518555]
+},"PFB_Mushroom_Big_B 7":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":1,"Static":true,"Visible":true,"L":[
+-6197.7509765625,
+184.95175170898438,
+-1607.7882080078125]
+,"R":[
+6.7398710250854492,
+193.4534912109375,
+5.8555707931518555]
+},"PFB_Mushroom_Big_C 8":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6424.67578125,
+187.40174865722656,
+-1196.83837890625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_Big_C 9":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6436.67578125,
+187.40174865722656,
+-1032.83837890625]
+,"R":[
+357,
+45,
+3.0000002384185791]
+},"PFB_Mushroom_Big_C 10":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":1,"Static":true,"Visible":true,"L":[
+-6076.67578125,
+194.40174865722656,
+-1305.83837890625]
+,"R":[
+7.5972743034362793,
+74.5701904296875,
+352.3602294921875]
+},"PFB_Mushroom_Big_A 11":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":1,"Static":true,"Visible":true,"L":[
+-6157.84423828125,
+202.65174865722656,
+-1208.765869140625]
+,"R":[
+15.000000953674316,
+75.000007629394531,
+0]
+},"PFB_Mushroom_60m_03 12":{"Name":"PFB_Mushroom_60m_03","DisplayName":"PFB_Mushroom_60m_03","S":1,"Static":true,"Visible":true,"L":[
+-6010.1591796875,
+210.45175170898438,
+-1459.3255615234375]
+,"R":[
+358,
+15.000000953674316,
+0]
+},"PFB_Mushroom_30m_03 13":{"Name":"PFB_Mushroom_30m_03","DisplayName":"PFB_Mushroom_30m_03","S":1,"Static":true,"Visible":true,"L":[
+-6139.75927734375,
+206.40174865722656,
+-1093.236328125]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_60m_01 14":{"Name":"PFB_Mushroom_60m_01","DisplayName":"PFB_Mushroom_60m_01","S":1,"Static":true,"Visible":true,"L":[
+-6525.72314453125,
+200.90174865722656,
+-1120.5828857421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_60m_02 15":{"Name":"PFB_Mushroom_60m_02","DisplayName":"PFB_Mushroom_60m_02","S":1,"Static":true,"Visible":true,"L":[
+-6386.07861328125,
+200.90174865722656,
+-1456.594970703125]
+,"R":[
+0,
+90,
+0]
+},"PFB_Mushroom_60m_02 16":{"Name":"PFB_Mushroom_60m_02","DisplayName":"PFB_Mushroom_60m_02","S":1,"Static":true,"Visible":true,"L":[
+-6007.4990234375,
+209.80174255371094,
+-1241.371826171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_Big_B 17":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":1,"Static":true,"Visible":true,"L":[
+-6285.8212890625,
+209.80178833007813,
+-904.4830322265625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_30m_01 18":{"Name":"PFB_Mushroom_30m_01","DisplayName":"PFB_Mushroom_30m_01","S":1,"Static":true,"Visible":true,"L":[
+-6265.03369140625,
+211.55178833007813,
+-1654.05810546875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_30m_02 19":{"Name":"PFB_Mushroom_30m_02","DisplayName":"PFB_Mushroom_30m_02","S":1,"Static":true,"Visible":true,"L":[
+-6193.43408203125,
+214.40177917480469,
+-1541.597900390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_30m_01 20":{"Name":"PFB_Mushroom_30m_01","DisplayName":"PFB_Mushroom_30m_01","S":1,"Static":true,"Visible":true,"L":[
+-6505.5107421875,
+209.8017578125,
+-1396.172607421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_Big_A 21":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-6160.51416015625,
+101.5517578125,
+-1233.8734130859375]
+,"R":[
+0,
+0,
+15.000000953674316]
+},"PFB_Mushroom_Big_A 22":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":8,"Static":true,"Visible":true,"L":[
+-6302.51416015625,
+143.5517578125,
+-1678.8734130859375]
+,"R":[
+1.0000005960464478,
+90.000007629394531,
+7.0000009536743164]
+},"PFB_Mushroom_Big_A 23":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-6707.86572265625,
+153.14678955078125,
+-1550.997802734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_Mushroom_Big_A 24":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-6649.52978515625,
+147.49678039550781,
+-1311.824951171875]
+,"R":[
+359,
+159,
+4]
+},"PFB_Mushroom_Big_B 25":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":10,"Static":true,"Visible":true,"L":[
+-6402.29541015625,
+147.49678039550781,
+-885.7176513671875]
+,"R":[
+1,
+166,
+357]
+},"PFB_Mushroom_Big_B 26":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":10,"Static":true,"Visible":true,"L":[
+-5520.11962890625,
+147.49678039550781,
+-944.64849853515625]
+,"R":[
+1.0000001192092896,
+126.99999237060547,
+5.0000004768371582]
+},"PFB_Mushroom_Big_C 27":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":10,"Static":true,"Visible":true,"L":[
+-5403.1318359375,
+145.19677734375,
+-1572.3184814453125]
+,"R":[
+4,
+127.00000762939453,
+4.0000004768371582]
+},"PFB_Mushroom_Big_A 28":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-6266.8525390625,
+120.74680328369141,
+-277.43408203125]
+,"R":[
+356,
+63,
+356]
+},"PFB_Mushroom_Big_A 29":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-7249.431640625,
+120.74678802490234,
+-464.10565185546875]
+,"R":[
+356,
+236,
+4.9999995231628418]
+},"PFB_Mushroom_Big_A 30":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-7319.98486328125,
+-4.1031951904296875,
+-1719.8702392578125]
+,"R":[
+0.99999988079071045,
+249.00001525878906,
+3.9999995231628418]
+},"PFB_Mushroom_Big_C 31":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":10,"Static":true,"Visible":true,"L":[
+-6813.71142578125,
+12.146804809570313,
+-2273.507080078125]
+,"R":[
+4.0000004768371582,
+185,
+355]
+},"PFB_Mushroom_Big_A 32":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-5731.611328125,
+12.396820068359375,
+-2308.479248046875]
+,"R":[
+358,
+152,
+357]
+},"PFB_Mushroom_Big_B 33":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":10,"Static":true,"Visible":true,"L":[
+-5606.76123046875,
+32.246826171875,
+-1391.9473876953125]
+,"R":[
+358,
+171,
+3]
+},"PFB_Mushroom_Big_A 34":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-6684.7802734375,
+21.746837615966797,
+-142.50627136230469]
+,"R":[
+355,
+267,
+1.9999995231628418]
+},"PFB_Mushroom_Big_C 35":{"Name":"PFB_Mushroom_Big_C","DisplayName":"PFB_Mushroom_Big_C","S":10,"Static":true,"Visible":true,"L":[
+-7716.990234375,
+95.946830749511719,
+-1209.2784423828125]
+,"R":[
+5.0000004768371582,
+172,
+357]
+},"PFB_Mushroom_Big_B 36":{"Name":"PFB_Mushroom_Big_B","DisplayName":"PFB_Mushroom_Big_B","S":10,"Static":true,"Visible":true,"L":[
+-6029.703125,
+58.096828460693359,
+-1963.83154296875]
+,"R":[
+1.0000001192092896,
+278,
+5]
+},"PFB_Mushroom_Big_A 37":{"Name":"PFB_Mushroom_Big_A","DisplayName":"PFB_Mushroom_Big_A","S":10,"Static":true,"Visible":true,"L":[
+-5885.013671875,
+70.896842956542969,
+-820.35791015625]
+,"R":[
+0,
+126,
+3]
+},"PFB_Mushroom_Small_A 38":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-6325.392578125,
+216.44682312011719,
+-1574.408935546875]
+,"R":[
+-4.0020641023374992E-08,
+157,
+0.9999997615814209]
+},"PFB_Mushroom_Small_B 39":{"Name":"PFB_Mushroom_Small_B","DisplayName":"PFB_Mushroom_Small_B","S":2,"Static":true,"Visible":true,"L":[
+-6209.14501953125,
+216.44682312011719,
+-1532.0235595703125]
+,"R":[
+356,
+154,
+357]
+},"PFB_Mushroom_Small_C 40":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-5960.68603515625,
+217.79684448242188,
+-1613.3328857421875]
+,"R":[
+355,
+82,
+355]
+},"PFB_Mushroom_Small_A 41":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-5949.51220703125,
+211.79684448242188,
+-1255.7232666015625]
+,"R":[
+3.0000002384185791,
+317,
+4]
+},"PFB_Mushroom_Small_B 42":{"Name":"PFB_Mushroom_Small_B","DisplayName":"PFB_Mushroom_Small_B","S":2,"Static":true,"Visible":true,"L":[
+-6209.45703125,
+208.99684143066406,
+-924.79217529296875]
+,"R":[
+4.0000004768371582,
+90,
+2]
+},"PFB_Mushroom_Small_A 43":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-6347.63134765625,
+212.44683837890625,
+-965.17498779296875]
+,"R":[
+0,
+197,
+358]
+},"PFB_Mushroom_Small_A 44":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-6345.3212890625,
+213.39683532714844,
+-985.11260986328125]
+,"R":[
+0,
+177,
+357]
+},"PFB_Mushroom_Small_C 45":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6520.86279296875,
+214.54684448242188,
+-1298.9951171875]
+,"R":[
+1.0000001192092896,
+175,
+3.9999995231628418]
+},"PFB_Mushroom_Small_A 46":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-6701.75634765625,
+214.19683837890625,
+-1804.035400390625]
+,"R":[
+3.0000007152557373,
+308,
+357]
+},"PFB_Mushroom_Small_B 47":{"Name":"PFB_Mushroom_Small_B","DisplayName":"PFB_Mushroom_Small_B","S":2,"Static":true,"Visible":true,"L":[
+-6277.30419921875,
+218.34684753417969,
+-1905.30224609375]
+,"R":[
+359,
+55.0000114440918,
+356]
+},"PFB_Mushroom_Small_A 48":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-5636.85546875,
+221.74684143066406,
+-1934.7491455078125]
+,"R":[
+356,
+16.000003814697266,
+359]
+},"PFB_Mushroom_Small_C 49":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-5611.462890625,
+215.09684753417969,
+-1380.2872314453125]
+,"R":[
+5.0000014305114746,
+183,
+358]
+},"PFB_Mushroom_Small_B 50":{"Name":"PFB_Mushroom_Small_B","DisplayName":"PFB_Mushroom_Small_B","S":2,"Static":true,"Visible":true,"L":[
+-6165.1650390625,
+215.19683837890625,
+-1239.1026611328125]
+,"R":[
+5.0000009536743164,
+7.9999990463256836,
+355]
+},"PFB_Mushroom_Small_C 51":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6420.37744140625,
+212.746826171875,
+-1199.6575927734375]
+,"R":[
+1.0000002384185791,
+103.00000762939453,
+356]
+},"PFB_Mushroom_Small_C 52":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6280.9609375,
+218.19682312011719,
+-1448.9903564453125]
+,"R":[
+356,
+87,
+355]
+},"PFB_Mushroom_Small_A 53":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-5572.5087890625,
+208.19682312011719,
+-968.260498046875]
+,"R":[
+4.9999995231628418,
+154,
+5.0000009536743164]
+},"PFB_Mushroom_Small_C 54":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-5995.29443359375,
+209.64682006835938,
+-1051.0958251953125]
+,"R":[
+0,
+2.0000059604644775,
+358]
+},"PFB_Mushroom_Small_C 55":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6069.79541015625,
+214.29681396484375,
+-1296.236083984375]
+,"R":[
+358,
+323,
+357]
+},"PFB_Mushroom_Small_A 56":{"Name":"PFB_Mushroom_Small_A","DisplayName":"PFB_Mushroom_Small_A","S":2,"Static":true,"Visible":true,"L":[
+-6404.1435546875,
+214.74681091308594,
+-1443.8631591796875]
+,"R":[
+4.0000004768371582,
+245,
+2.0000004768371582]
+},"PFB_Mushroom_Small_C 57":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6102.626953125,
+219.14682006835938,
+-1547.4852294921875]
+,"R":[
+3,
+270,
+0]
+},"PFB_RockPillar_fungus 58":{"Name":"PFB_RockPillar_fungus","DisplayName":"PFB_RockPillar_fungus","S":2,"Static":true,"Visible":true,"L":[
+-6072.23779296875,
+212.89682006835938,
+-926.598876953125]
+,"R":[
+358,
+329,
+355]
+},"PFB_StoneCliff_fungus 59":{"Name":"PFB_StoneCliff_fungus","DisplayName":"PFB_StoneCliff_fungus","S":2,"Static":true,"Visible":true,"L":[
+-6800.04052734375,
+209.69682312011719,
+-1212.4376220703125]
+,"R":[
+340.61187744140625,
+223.92922973632813,
+355.54434204101563]
+},"PFB_Mushroom_Small_C 60":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6792.85986328125,
+258.74685668945313,
+-1203.76123046875]
+,"R":[
+9.8153562545776367,
+350.90023803710938,
+0.64507389068603516]
+},"PFB_RockArch_01_fungus 61":{"Name":"PFB_RockArch_01_fungus","DisplayName":"PFB_RockArch_01_fungus","S":2,"Static":true,"Visible":true,"L":[
+-6389.57080078125,
+226.79684448242188,
+-1599.921142578125]
+,"R":[
+356,
+281,
+-2.1396459715106175E-07]
+},"PFB_RockArch_01_fungus 62":{"Name":"PFB_RockArch_01_fungus","DisplayName":"PFB_RockArch_01_fungus","S":2,"Static":true,"Visible":true,"L":[
+-6544.57080078125,
+226.79684448242188,
+-1551.921142578125]
+,"R":[
+356,
+101,
+-4.279292795672518E-07]
+},"PFB_Mushroom_5m_01 63":{"Name":"PFB_Mushroom_5m_01","DisplayName":"PFB_Mushroom_5m_01","S":2,"Static":true,"Visible":true,"L":[
+-6533.41357421875,
+265.6468505859375,
+-1561.0625]
+,"R":[
+4.9999995231628418,
+22.999992370605469,
+357]
+},"PFB_Mushroom_5m_03 64":{"Name":"PFB_Mushroom_5m_03","DisplayName":"PFB_Mushroom_5m_03","S":2,"Static":true,"Visible":true,"L":[
+-6459.02392578125,
+274.34686279296875,
+-1572.8193359375]
+,"R":[
+2,
+333,
+359]
+},"PFB_Mushroom_Small_B 65":{"Name":"PFB_Mushroom_Small_B","DisplayName":"PFB_Mushroom_Small_B","S":2,"Static":true,"Visible":true,"L":[
+-6397.404296875,
+267.34689331054688,
+-1580.8177490234375]
+,"R":[
+3.9999995231628418,
+265,
+3]
+},"PFB_Mushroom_Small_C 66":{"Name":"PFB_Mushroom_Small_C","DisplayName":"PFB_Mushroom_Small_C","S":2,"Static":true,"Visible":true,"L":[
+-6407.1767578125,
+269.49691772460938,
+-1603.2032470703125]
+,"R":[
+358,
+185,
+3]
+},"PFB_Cactus_Tree 67":{"Name":"PFB_Cactus_Tree","DisplayName":"PFB_Cactus_Tree","S":50,"Static":true,"Visible":true,"L":[
+-6383.642578125,
+175.49693298339844,
+-1193.90576171875]
+,"R":[
+4,
+24,
+355]
+},"PFB_Cactus_Tree 68":{"Name":"PFB_Cactus_Tree","DisplayName":"PFB_Cactus_Tree","S":50,"Static":true,"Visible":true,"L":[
+-6089.642578125,
+175.49693298339844,
+-1765.90576171875]
+,"R":[
+5.215153694152832,
+68.778892517089844,
+352.24813842773438]
+},"PFB_Cactus_Tree 69":{"Name":"PFB_Cactus_Tree","DisplayName":"PFB_Cactus_Tree","S":50,"Static":true,"Visible":true,"L":[
+-5733.642578125,
+175.49693298339844,
+-1216.90576171875]
+,"R":[
+5.9361910820007324,
+353.96102905273438,
+354.12249755859375]
+},"PFB_Cactus_Tree 70":{"Name":"PFB_Cactus_Tree","DisplayName":"PFB_Cactus_Tree","S":120,"Static":true,"Visible":true,"L":[
+-5781.642578125,
+152.49693298339844,
+-1679.90576171875]
+,"R":[
+359.61959838867188,
+115.87047576904297,
+354.41653442382813]
+},"PFB_Cactus_Mushroom_Tree 71":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6040.76025390625,
+70.449752807617188,
+-1122.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 72":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6027.76025390625,
+70.449752807617188,
+-1175.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 73":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6089.76025390625,
+70.449752807617188,
+-1178.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 74":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6073.76025390625,
+70.449752807617188,
+-1155.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 75":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6143.76025390625,
+70.449752807617188,
+-1183.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 76":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6121.76025390625,
+70.449752807617188,
+-1129.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 77":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6099.76025390625,
+70.449752807617188,
+-1094.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 78":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6218.76025390625,
+70.449752807617188,
+-1242.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 79":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6173.76025390625,
+73.449752807617188,
+-1494.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 80":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6156.76025390625,
+80.449752807617188,
+-1528.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 81":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6198.76025390625,
+80.449752807617188,
+-1558.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 82":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6271.76025390625,
+80.449752807617188,
+-1560.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 83":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6215.76025390625,
+78.449752807617188,
+-1519.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 84":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6390.76025390625,
+73.449752807617188,
+-1188.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 85":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6421.76025390625,
+75.449752807617188,
+-1235.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 86":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6440.76025390625,
+71.449752807617188,
+-1206.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 87":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6616.76025390625,
+71.449752807617188,
+-1317.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 88":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6647.76025390625,
+71.449752807617188,
+-1352.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 89":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-6429.76025390625,
+71.449752807617188,
+-1502.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 90":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-5919.76025390625,
+71.449752807617188,
+-1273.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 91":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-5948.76025390625,
+71.449752807617188,
+-1251.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 92":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-5753.76025390625,
+74.449752807617188,
+-1207.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Cactus_Mushroom_Tree 93":{"Name":"PFB_Cactus_Mushroom_Tree","DisplayName":"PFB_Cactus_Mushroom_Tree","S":10,"Static":true,"Visible":true,"L":[
+-5700.76025390625,
+74.449752807617188,
+-1191.0419921875]
+,"R":[
+356,
+113.00000762939453,
+1.9999997615814209]
+},"PFB_Chirpo_Blue 94":{"Name":"PFB_Chirpo_Blue","DisplayName":"PFB_Chirpo_Blue","S":2,"Static":true,"Visible":true,"L":[
+-6480.75927734375,
+276.50906372070313,
+-1565.143798828125]
+,"R":[
+11.917075157165527,
+8.8757743835449219,
+354.41558837890625]
+},"PFB_Chirpo_Blue 95":{"Name":"PFB_Chirpo_Blue","DisplayName":"PFB_Chirpo_Blue","S":2,"Static":true,"Visible":true,"L":[
+-6532.75927734375,
+266.38894653320313,
+-1559.143798828125]
+,"R":[
+357.091064453125,
+188.69425964355469,
+352.12399291992188]
+},"PFB_Chirpo_Orange 96":{"Name":"PFB_Chirpo_Orange","DisplayName":"PFB_Chirpo_Orange","S":2,"Static":true,"Visible":true,"L":[
+-6430.71923828125,
+274.69732666015625,
+-1579.8621826171875]
+,"R":[
+4.7581262588500977,
+65.068962097167969,
+3.371828556060791]
+},"PFB_Chirpo_White 97":{"Name":"PFB_Chirpo_White","DisplayName":"PFB_Chirpo_White","S":2,"Static":true,"Visible":true,"L":[
+-6061.25146484375,
+322.41970825195313,
+-925.6500244140625]
+,"R":[
+3.3377432823181152,
+182.42863464355469,
+10.632257461547852]
+},"PFB_Chirpo_Dark 98":{"Name":"PFB_Chirpo_Dark","DisplayName":"PFB_Chirpo_Dark","S":2,"Static":true,"Visible":true,"L":[
+-6022.41162109375,
+219.22856140136719,
+-1473.78125]
+,"R":[
+1.0000001192092896,
+45.000003814697266,
+2]
+},"PFB_Chirpo_LightGreen 99":{"Name":"PFB_Chirpo_LightGreen","DisplayName":"PFB_Chirpo_LightGreen","S":2,"Static":true,"Visible":true,"L":[
+-6019.59375,
+219.17817687988281,
+-1471.7781982421875]
+,"R":[
+357,
+250,
+3.0000007152557373]
+},"PFB_Chirpo_Orange 100":{"Name":"PFB_Chirpo_Orange","DisplayName":"PFB_Chirpo_Orange","S":2,"Static":true,"Visible":true,"L":[
+-6232.41943359375,
+219.948486328125,
+-1554.43798828125]
+,"R":[
+-2.1344341405438172E-07,
+50.000003814697266,
+4.0000009536743164]
+},"PFB_Chirpo_Blue 101":{"Name":"PFB_Chirpo_Blue","DisplayName":"PFB_Chirpo_Blue","S":2,"Static":true,"Visible":true,"L":[
+-6248.36328125,
+219.84539794921875,
+-1586.4422607421875]
+,"R":[
+2.6680426756797715E-08,
+207.99995422363281,
+1.0000001192092896]
+},"PFB_Chirpo_Blue 102":{"Name":"PFB_Chirpo_Blue","DisplayName":"PFB_Chirpo_Blue","S":2,"Static":true,"Visible":true,"L":[
+-6636.95263671875,
+213.34710693359375,
+-1300.1065673828125]
+,"R":[
+356,
+84,
+357]
+},"themelvintex themelvin 103":{"Name":"themelvintex themelvin","DisplayName":"themelvintex themelvin","S":170,"Static":true,"Visible":true,"L":[
+-5515.0234375,
+189.12094116210938,
+-1232.83740234375]
+,"R":[
+16.547178268432617,
+262.30023193359375,
+358.444091796875]
+}},"Authors":".387.497.1115.9123.8103.7117.380.6105.8125.8100,","Description":"","Spawn":{"Type":"Join","x":-6209.22216796875,"y":217.91105651855469,"z":-1357.170166015625},"Version":2
+}

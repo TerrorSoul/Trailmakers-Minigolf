@@ -1,0 +1,762 @@
+{"Date":"10:22:2024","Time":"21:35:04","Map":"Test Zone","Spawns":{"PFB_coralAnemoneA01 1":{"Name":"PFB_coralAnemoneA01","DisplayName":"PFB_coralAnemoneA01","S":5,"Static":true,"Visible":true,"L":[
+-6228.70263671875,
+150,
+-1368.15478515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralRockA01 2":{"Name":"PFB_coralRockA01","DisplayName":"PFB_coralRockA01","S":1,"Static":true,"Visible":true,"L":[
+-6188.630859375,
+149.71788024902344,
+-1408.4930419921875]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_coralRockC01 3":{"Name":"PFB_coralRockC01","DisplayName":"PFB_coralRockC01","S":1.2,"Static":true,"Visible":true,"L":[
+-6199.9560546875,
+150.96788024902344,
+-1408.4700927734375]
+,"R":[
+330,
+0,
+345]
+},"PFB_coralRockD02 4":{"Name":"PFB_coralRockD02","DisplayName":"PFB_coralRockD02","S":1,"Static":true,"Visible":true,"L":[
+-6258.3193359375,
+150.71788024902344,
+-1234.3226318359375]
+,"R":[
+0,
+315,
+0]
+},"PFB_coralRockPlatform02 5":{"Name":"PFB_coralRockPlatform02","DisplayName":"PFB_coralRockPlatform02","S":1,"Static":true,"Visible":true,"L":[
+-6161.44921875,
+146.29161071777344,
+-1260.1380615234375]
+,"R":[
+346,
+345,
+14.999999046325684]
+},"PFB_coralRockPlatform05 6":{"Name":"PFB_coralRockPlatform05","DisplayName":"PFB_coralRockPlatform05","S":1,"Static":true,"Visible":true,"L":[
+-6202.68115234375,
+148.79161071777344,
+-1172.2076416015625]
+,"R":[
+357,
+30.000001907348633,
+0]
+},"PFB_coralFormation01 7":{"Name":"PFB_coralFormation01","DisplayName":"PFB_coralFormation01","S":5,"Static":true,"Visible":true,"L":[
+-6247.29296875,
+123.04130554199219,
+-1394.121826171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralFormation01 8":{"Name":"PFB_coralFormation01","DisplayName":"PFB_coralFormation01","S":5,"Static":true,"Visible":true,"L":[
+-6292.29296875,
+124.04130554199219,
+-1375.121826171875]
+,"R":[
+15.000000953674316,
+45,
+30.000001907348633]
+},"PFB_CoralReef2 9":{"Name":"PFB_CoralReef2","DisplayName":"PFB_CoralReef2","S":2,"Static":true,"Visible":true,"L":[
+-6208.78466796875,
+144.69129943847656,
+-1394.91015625]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_CoralReef2 10":{"Name":"PFB_CoralReef2","DisplayName":"PFB_CoralReef2","S":2,"Static":true,"Visible":true,"L":[
+-6272.78466796875,
+141.69129943847656,
+-1353.91015625]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_CoralReef2 11":{"Name":"PFB_CoralReef2","DisplayName":"PFB_CoralReef2","S":2,"Static":true,"Visible":true,"L":[
+-6155.78466796875,
+142.69129943847656,
+-1241.91015625]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_coralTuberA01 12":{"Name":"PFB_coralTuberA01","DisplayName":"PFB_coralTuberA01","S":5,"Static":true,"Visible":true,"L":[
+-6300.57080078125,
+147.94883728027344,
+-1253.443359375]
+,"R":[
+345,
+2.209728506841202E-07,
+345]
+},"PFB_coralTuberA01 13":{"Name":"PFB_coralTuberA01","DisplayName":"PFB_coralTuberA01","S":5,"Static":true,"Visible":true,"L":[
+-6300.57080078125,
+147.94883728027344,
+-1253.443359375]
+,"R":[
+315.61550903320313,
+290.37841796875,
+326.72146606445313]
+},"PFB_coralTuberA02 14":{"Name":"PFB_coralTuberA02","DisplayName":"PFB_coralTuberA02","S":5,"Static":true,"Visible":true,"L":[
+-6301.28759765625,
+149.94883728027344,
+-1252.849853515625]
+,"R":[
+330,
+30.000001907348633,
+300]
+},"PFB_CoralReef1 15":{"Name":"PFB_CoralReef1","DisplayName":"PFB_CoralReef1","S":1,"Static":true,"Visible":true,"L":[
+-6287.15283203125,
+150.14881896972656,
+-1254.024658203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CoralReef1 16":{"Name":"PFB_CoralReef1","DisplayName":"PFB_CoralReef1","S":1,"Static":true,"Visible":true,"L":[
+-6304.50146484375,
+149.24880981445313,
+-1275.473876953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_CoralReef2 17":{"Name":"PFB_CoralReef2","DisplayName":"PFB_CoralReef2","S":1,"Static":true,"Visible":true,"L":[
+-6282.83935546875,
+146.69880676269531,
+-1270.64599609375]
+,"R":[
+358,
+315,
+5.3393378607324848E-08]
+},"PFB_coralRockB01 18":{"Name":"PFB_coralRockB01","DisplayName":"PFB_coralRockB01","S":2,"Static":true,"Visible":true,"L":[
+-6302.32861328125,
+146.69880676269531,
+-1284.2037353515625]
+,"R":[
+345,
+29.999998092651367,
+0]
+},"PFB_coralRockPlatform05 19":{"Name":"PFB_coralRockPlatform05","DisplayName":"PFB_coralRockPlatform05","S":2,"Static":true,"Visible":true,"L":[
+-6085.68115234375,
+149.79161071777344,
+-1112.2076416015625]
+,"R":[
+349.64276123046875,
+28.45836067199707,
+13.170913696289063]
+},"PFB_ShipWreck 20":{"Name":"PFB_ShipWreck","DisplayName":"PFB_ShipWreck","S":1,"Static":true,"Visible":true,"L":[
+-6062.0478515625,
+145.61723327636719,
+-1349.746337890625]
+,"R":[
+15.000001907348633,
+304,
+358]
+},"PFB_HS_Clam 21":{"Name":"PFB_HS_Clam","DisplayName":"PFB_HS_Clam","S":3,"Static":true,"Visible":true,"L":[
+-6229.07421875,
+152.76701354980469,
+-1362.56201171875]
+,"R":[
+358,
+210,
+3]
+},"PFB_Chirpo_Spacer_Blue 22":{"Name":"PFB_Chirpo_Spacer_Blue","DisplayName":"PFB_Chirpo_Spacer_Blue","S":2,"Static":true,"Visible":true,"L":[
+-6225.12451171875,
+152.25732421875,
+-1356.531494140625]
+,"R":[
+0,
+30.000001907348633,
+0]
+},"PFB_coralEggA01 23":{"Name":"PFB_coralEggA01","DisplayName":"PFB_coralEggA01","S":2,"Static":true,"Visible":true,"L":[
+-6058.73095703125,
+150.04722595214844,
+-1231.9256591796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralEggA02 24":{"Name":"PFB_coralEggA02","DisplayName":"PFB_coralEggA02","S":2,"Static":true,"Visible":true,"L":[
+-6061.43701171875,
+149.10710144042969,
+-1237.7734375]
+,"R":[
+345,
+2.209728506841202E-07,
+345]
+},"PFB_CoralReef3 25":{"Name":"PFB_CoralReef3","DisplayName":"PFB_CoralReef3","S":1,"Static":true,"Visible":true,"L":[
+-6062.86669921875,
+141.44618225097656,
+-1234.580078125]
+,"R":[
+357,
+0,
+0]
+},"PFB_GoldChest 26":{"Name":"PFB_GoldChest","DisplayName":"PFB_GoldChest","S":2,"Static":true,"Visible":true,"L":[
+-6086.20068359375,
+147.94618225097656,
+-1343.5062255859375]
+,"R":[
+345,
+2.209728506841202E-07,
+345]
+},"PFB_GoldChest 27":{"Name":"PFB_GoldChest","DisplayName":"PFB_GoldChest","S":2,"Static":true,"Visible":true,"L":[
+-6075.20068359375,
+149.94618225097656,
+-1329.5062255859375]
+,"R":[
+352.56451416015625,
+43.064350128173828,
+284.14736938476563]
+},"PFB_HS_ClamClosed 28":{"Name":"PFB_HS_ClamClosed","DisplayName":"PFB_HS_ClamClosed","S":2,"Static":true,"Visible":true,"L":[
+-6146.08251953125,
+153.94618225097656,
+-1185.658203125]
+,"R":[
+0,
+60.000003814697266,
+0]
+},"PFB_coralRockC02 29":{"Name":"PFB_coralRockC02","DisplayName":"PFB_coralRockC02","S":3,"Static":true,"Visible":true,"L":[
+-6120.89697265625,
+148.69618225097656,
+-1419.0955810546875]
+,"R":[
+330,
+60.000007629394531,
+345]
+},"PFB_coralRockC02 30":{"Name":"PFB_coralRockC02","DisplayName":"PFB_coralRockC02","S":3,"Static":true,"Visible":true,"L":[
+-6141.89697265625,
+141.69618225097656,
+-1426.0955810546875]
+,"R":[
+306.59469604492188,
+131.49357604980469,
+312.42822265625]
+},"PFB_coralRockE01 31":{"Name":"PFB_coralRockE01","DisplayName":"PFB_coralRockE01","S":2,"Static":true,"Visible":true,"L":[
+-5975.169921875,
+133.28114318847656,
+-1276.3480224609375]
+,"R":[
+345,
+14.999999046325684,
+-2.209728506841202E-07]
+},"PFB_coralFormation02 32":{"Name":"PFB_coralFormation02","DisplayName":"PFB_coralFormation02","S":5,"Static":true,"Visible":true,"L":[
+-5974.84326171875,
+136.03114318847656,
+-1238.373291015625]
+,"R":[
+0,
+0,
+15.000000953674316]
+},"PFB_coralFormation02 33":{"Name":"PFB_coralFormation02","DisplayName":"PFB_coralFormation02","S":5,"Static":true,"Visible":true,"L":[
+-6006.84326171875,
+117.03114318847656,
+-1201.373291015625]
+,"R":[
+1.7075473124350538E-06,
+300,
+315]
+},"PFB_WavyBottomPlantGreenBubbleWeed 34":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6069.07275390625,
+146.21870422363281,
+-1180.0286865234375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 35":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6060.50927734375,
+145.71868896484375,
+-1197.4564208984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 36":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6100.8466796875,
+145.71868896484375,
+-1191.7398681640625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 37":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6135.853515625,
+145.71868896484375,
+-1160.6622314453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 38":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6159.63720703125,
+145.71868896484375,
+-1170.62255859375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 39":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6052.87109375,
+146.91868591308594,
+-1123.065673828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenRedGrass 40":{"Name":"PFB_WavyBottomPlantGreenRedGrass","DisplayName":"PFB_WavyBottomPlantGreenRedGrass","S":10,"Static":true,"Visible":true,"L":[
+-5933.5224609375,
+145.41868591308594,
+-1210.5008544921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantRedShredded 41":{"Name":"PFB_WavyBottomPlantRedShredded","DisplayName":"PFB_WavyBottomPlantRedShredded","S":10,"Static":true,"Visible":true,"L":[
+-5976.02587890625,
+145.16868591308594,
+-1311.3240966796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 42":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6025.8115234375,
+145.91868591308594,
+-1305.03662109375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 43":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6086.38671875,
+145.91868591308594,
+-1328.3465576171875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 44":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6098.974609375,
+145.91868591308594,
+-1347.4603271484375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 45":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6076.36962890625,
+145.0186767578125,
+-1396.222900390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 46":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-6174.189453125,
+146.41867065429688,
+-1413.8568115234375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenRedGrass 47":{"Name":"PFB_WavyBottomPlantGreenRedGrass","DisplayName":"PFB_WavyBottomPlantGreenRedGrass","S":10,"Static":true,"Visible":true,"L":[
+-6161.73388671875,
+146.0186767578125,
+-1443.9527587890625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 48":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-6207.109375,
+146.7686767578125,
+-1430.4537353515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 49":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6283.9462890625,
+142.7686767578125,
+-1225.8033447265625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 50":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6261.75537109375,
+145.71867370605469,
+-1221.2459716796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 51":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6033.3896484375,
+139.91865539550781,
+-1273.271728515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 52":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-5998.0712890625,
+142.66865539550781,
+-1330.30859375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 53":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6346.11376953125,
+142.66865539550781,
+-1399.53955078125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 54":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6321.70703125,
+145.56866455078125,
+-1254.788818359375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 55":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6302.44921875,
+145.11866760253906,
+-1334.7916259765625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 56":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6259.62060546875,
+141.46865844726563,
+-1322.3089599609375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 57":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6119.640625,
+117.46865844726563,
+-1188.787353515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 58":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6324.37255859375,
+119.46865844726563,
+-1311.696533203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 59":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6208.32568359375,
+119.46865844726563,
+-1439.308837890625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 60":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-5986.74853515625,
+119.46865844726563,
+-1369.9971923828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 61":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-5998.79052734375,
+119.46865844726563,
+-1132.7420654296875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 62":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6011.95947265625,
+119.46865844726563,
+-1134.19775390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 63":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6026.5546875,
+119.46865844726563,
+-1105.1663818359375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenRedGrass 64":{"Name":"PFB_WavyBottomPlantGreenRedGrass","DisplayName":"PFB_WavyBottomPlantGreenRedGrass","S":10,"Static":true,"Visible":true,"L":[
+-6088.0234375,
+144.46865844726563,
+-1196.65673828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 65":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-6145.62255859375,
+145.11865234375,
+-1179.3475341796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantRedShredded 66":{"Name":"PFB_WavyBottomPlantRedShredded","DisplayName":"PFB_WavyBottomPlantRedShredded","S":10,"Static":true,"Visible":true,"L":[
+-6240.46533203125,
+153.06863403320313,
+-1388.786865234375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantRedShredded 67":{"Name":"PFB_WavyBottomPlantRedShredded","DisplayName":"PFB_WavyBottomPlantRedShredded","S":10,"Static":true,"Visible":true,"L":[
+-6210.8427734375,
+148.06863403320313,
+-1155.1610107421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenRedGrass 68":{"Name":"PFB_WavyBottomPlantGreenRedGrass","DisplayName":"PFB_WavyBottomPlantGreenRedGrass","S":10,"Static":true,"Visible":true,"L":[
+-6216.44873046875,
+148.06863403320313,
+-1164.7147216796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 69":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-5968.0791015625,
+148.36862182617188,
+-1182.83984375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 70":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-5940.76708984375,
+142.41862487792969,
+-1437.1993408203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 71":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-5942.4658203125,
+144.66862487792969,
+-1509.783447265625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 72":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6038.59716796875,
+144.66862487792969,
+-1499.817138671875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 73":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6043.912109375,
+144.66862487792969,
+-1463.813232421875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantRedShredded 74":{"Name":"PFB_WavyBottomPlantRedShredded","DisplayName":"PFB_WavyBottomPlantRedShredded","S":10,"Static":true,"Visible":true,"L":[
+-6032.22119140625,
+144.66862487792969,
+-1431.3515625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantRedBubbleEnds 75":{"Name":"PFB_WavyBottomPlantRedBubbleEnds","DisplayName":"PFB_WavyBottomPlantRedBubbleEnds","S":10,"Static":true,"Visible":true,"L":[
+-5885.095703125,
+144.66862487792969,
+-1279.292236328125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 76":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-6023.85205078125,
+142.41862487792969,
+-1331.2379150390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenRedGrass 77":{"Name":"PFB_WavyBottomPlantGreenRedGrass","DisplayName":"PFB_WavyBottomPlantGreenRedGrass","S":10,"Static":true,"Visible":true,"L":[
+-6178.7392578125,
+146.01861572265625,
+-1087.07861328125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 78":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6192.67431640625,
+146.51861572265625,
+-1127.1661376953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenBubbleWeed 79":{"Name":"PFB_WavyBottomPlantGreenBubbleWeed","DisplayName":"PFB_WavyBottomPlantGreenBubbleWeed","S":10,"Static":true,"Visible":true,"L":[
+-6286.56591796875,
+144.71861267089844,
+-1177.688720703125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 80":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6286.70068359375,
+144.71861267089844,
+-1131.3372802734375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 81":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6252.68798828125,
+144.71861267089844,
+-1106.96044921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 82":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6242.15673828125,
+144.71861267089844,
+-1114.177490234375]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 83":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6255.06494140625,
+144.71861267089844,
+-1169.63623046875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLeafy 84":{"Name":"PFB_WavyBottomPlantGreenLeafy","DisplayName":"PFB_WavyBottomPlantGreenLeafy","S":10,"Static":true,"Visible":true,"L":[
+-6306.267578125,
+146.11862182617188,
+-1316.994873046875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantPurpleSquareEnd 85":{"Name":"PFB_WavyBottomPlantPurpleSquareEnd","DisplayName":"PFB_WavyBottomPlantPurpleSquareEnd","S":10,"Static":true,"Visible":true,"L":[
+-6046.45166015625,
+146.66862487792969,
+-1283.336669921875]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenLadder 86":{"Name":"PFB_WavyBottomPlantGreenLadder","DisplayName":"PFB_WavyBottomPlantGreenLadder","S":10,"Static":true,"Visible":true,"L":[
+-6215.23291015625,
+152.81863403320313,
+-1401.6221923828125]
+,"R":[
+0,
+0,
+0]
+},"PFB_WavyBottomPlantGreenCactus 87":{"Name":"PFB_WavyBottomPlantGreenCactus","DisplayName":"PFB_WavyBottomPlantGreenCactus","S":10,"Static":true,"Visible":true,"L":[
+-6374.8369140625,
+145.36863708496094,
+-1193.8564453125]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneA01 88":{"Name":"PFB_coralAnemoneA01","DisplayName":"PFB_coralAnemoneA01","S":10,"Static":true,"Visible":true,"L":[
+-6035.8505859375,
+146.01863098144531,
+-1248.2987060546875]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneB02 89":{"Name":"PFB_coralAnemoneB02","DisplayName":"PFB_coralAnemoneB02","S":10,"Static":true,"Visible":true,"L":[
+-6292.31005859375,
+146.76861572265625,
+-1315.1827392578125]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneB02 90":{"Name":"PFB_coralAnemoneB02","DisplayName":"PFB_coralAnemoneB02","S":10,"Static":true,"Visible":true,"L":[
+-6126.00732421875,
+146.51861572265625,
+-1154.84033203125]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneA02 91":{"Name":"PFB_coralAnemoneA02","DisplayName":"PFB_coralAnemoneA02","S":10,"Static":true,"Visible":true,"L":[
+-6140.72265625,
+146.36862182617188,
+-1121.0738525390625]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneB01 92":{"Name":"PFB_coralAnemoneB01","DisplayName":"PFB_coralAnemoneB01","S":10,"Static":true,"Visible":true,"L":[
+-6067.83740234375,
+146.71861267089844,
+-1444.0108642578125]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneA01 93":{"Name":"PFB_coralAnemoneA01","DisplayName":"PFB_coralAnemoneA01","S":10,"Static":true,"Visible":true,"L":[
+-6063.6689453125,
+146.71861267089844,
+-1436.9317626953125]
+,"R":[
+0,
+0,
+0]
+},"PFB_coralAnemoneB02 94":{"Name":"PFB_coralAnemoneB02","DisplayName":"PFB_coralAnemoneB02","S":10,"Static":true,"Visible":true,"L":[
+-6087.87841796875,
+146.31861877441406,
+-1402.0037841796875]
+,"R":[
+0,
+0,
+0]
+},"PFB_Whale 95":{"Name":"PFB_Whale","DisplayName":"PFB_Whale","S":5,"Static":true,"Visible":true,"L":[
+-6262.03173828125,
+171.76861572265625,
+-1172.0150146484375]
+,"R":[
+346,
+90,
+18.999998092651367]
+}},"Authors":".084.2103.2112.8122.0111.5119.281.6105.4113.0108,","Description":"","Spawn":{},"Version":2
+}
